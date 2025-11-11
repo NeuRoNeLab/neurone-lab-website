@@ -4,6 +4,7 @@ subtitle: at University of Salerno
 description: Artificial Intelligence and Bioinformatics
 header: images/background-neurone.png
 footer: images/background-neurone.png
+proofer: false
 
 # site social media and other links
 links:

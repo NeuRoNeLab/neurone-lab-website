@@ -1,5 +1,5 @@
 
-# MJDelas's Website
+# Neurone Lab's Website
 
 Visit **[neuronelab.github.io/neurone-lab-website](https://neuronelab.github.io/neurone-lab-website)** 🚀
 

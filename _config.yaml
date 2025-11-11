@@ -2,15 +2,15 @@
 title: Neurone Lab
 subtitle: at University of Salerno
 description: Artificial Intelligence and Bioinformatics
-header: images/background-neurone.jpg
-footer: images/background-neurone.jpg
+header: images/background-neurone.png
+footer: images/background-neurone.png
 
 # site social media and other links
 links:
-  email: j.delas@ucl.ac.uk
-  orcid: 0000-0001-9727-9068
-  google-scholar: MNz5Cq8AAAAJ
-  github: MJDelas
+  email: neuronelab@unisa.it
+  orcid: 0000-0001-9727-9068  # need to update
+  google-scholar: MNz5Cq8AAAAJ  # need to update
+  github: NeuRoNeLab
   bluesky: joadelas.bsky.social
 
 ### jekyll settings

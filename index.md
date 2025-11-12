@@ -45,7 +45,7 @@ Our work combines methods from machine learning, computational biology, and neur
 
 {%
   include feature.html
-  image="images/cover_research.jpg"
+  image="images/our-research.png"
   link="research"
   title="Our Research"
   text=text

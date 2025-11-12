@@ -88,7 +88,7 @@ We are a small interdisciplinary team and are currently expanding our internatio
   link="team"
   text="Meet our team"
   icon="fa-solid fa-arrow-right"
-  flip=true
+  flip=false
   style="bare"
 %}
 
@@ -99,7 +99,7 @@ We are a small interdisciplinary team and are currently expanding our internatio
   image="images/cover_team.jpg"
   link="team"
   title="Our Team"
-  flip=true
+  flip=false
   style="bare"
   text=text
 %}

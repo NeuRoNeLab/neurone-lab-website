@@ -17,7 +17,7 @@ In bioinformatics, we work on computational analysis of single-cell omics data, 
 In bioimaging, we develop and apply deep learning approaches for microscopy and medical imaging, including super-resolution of tissue data, label-free cell classification, and brain lesion segmentation.
 We also have projects in audio signal processing, studying soundscapes and speech enhancement with deep learning models.
 
-We are located at the [DISA-MIS, University of Salerno](https://www.disa.unisa.it/en/department/structures?id=331). If you are interested in collaborating or joining the lab, please [get in touch](/recruitment)
+We are located at the [DISA-MIS, University of Salerno](https://www.disa.unisa.it/en/department/structures?id=331). If you are interested in collaborating or joining the lab, please [get in touch](/contact)
 
 
 {% include section.html %}

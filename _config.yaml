@@ -9,10 +9,11 @@ proofer: false
 # site social media and other links
 links:
   email: neuronelab@unisa.it
-  orcid: 0000-0001-9727-9068  # need to update
-  google-scholar: MNz5Cq8AAAAJ  # need to update
+  orcid: 0000-0001-8134-9025  # need to update
+  google-scholar: WdQ9HBAAAAAJ&hl=it  # need to update
   github: NeuRoNeLab
-  bluesky: joadelas.bsky.social
+  # bluesky: joadelas.bsky.social
+  instagram: https://www.instagram.com/neuronelab/
 
 ### jekyll settings
 

@@ -15,13 +15,13 @@ Meet our team:
 {% include list.html data="members" component="portrait" filters="role: pi" %}
 {% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %}
 
-{% include section.html background="images/UCL.jpg" dark=true %}
+{% include section.html background="images/unisa.jpg" dark=true %}
 
 Do you want to hear more?
 
 {% include section.html %}
 
-Please [reach out](/recruitment) if you are interested in joining. We are happy to support Early Career/postdoc fellowships. 
+Please contact if you are interested in joining our lab as a postdoc, PhD student, or an intern (e.g. during a PhD abroad period), we welcome international collaborations and students!
 
 {% capture content %}
 

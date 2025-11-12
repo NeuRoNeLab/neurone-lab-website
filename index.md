@@ -1,9 +1,9 @@
 ---
 ---
 
-# Cis regulatory control during development
+# Intelligence in biological and artificial systems
 
-Our lab is interested in understanding how cis-regulatory elements control cell fate decisions during development. While we know these non-coding sequences control gene expression, how they achieve this is still not understood. We have a particular interest in repressors, and how they act via cis-regulatory elements to mediate gene silencing.
+At Neurone Lab, we study computation across natural and artificial systems. Our work lies at the intersection of artificial intelligence, bioinformatics, bioimaging, and computational neuroscience (NeuroAI). We are interested in how principles from biology can inform machine learning, and how computational methods can help us understand biological data.
 
 {%
   include figure.html
@@ -11,16 +11,20 @@ Our lab is interested in understanding how cis-regulatory elements control cell 
   width="75%"
 %}
 
-We do this by combining stem-cell derived and in vivo models. By using state-of-the-art genomics, proteomics and microscopy approaches, we aim at understanding gene regulatory control by non-coding DNA elements at a molecular level during developmental cell fate decisions.
+Our research spans several areas.
+In NeuroAI, we explore how neural connectivity and structure can inspire new machine learning architectures, for example by using the _Caenorhabditis elegans_ connectome or biologically motivated sparsity mechanisms in artificial networks. 
+In bioinformatics, we work on computational analysis of single-cell omics data, focusing on pathway inference and gene-level regulatory patterns.
+In bioimaging, we develop and apply deep learning approaches for microscopy and medical imaging, including super-resolution of tissue data, label-free cell classification, and brain lesion segmentation.
+We also have projects in audio signal processing, studying soundscapes and speech enhancement with deep learning models.
 
-We are located at the [LMCB, UCL](https://www.ucl.ac.uk/life-sciences/lmcb/research-teams/delas-lab). We are currently building out team to get in touch if you would like to [**join us!**](/recruitment)
+We are located at the [DISA-MIS, University of Salerno](https://www.disa.unisa.it/en/department/structures?id=331). If you are interested in collaborating or joining the lab, please [get in touch](/recruitment)
 
 
 {% include section.html %}
 
 {% capture text %}
 
-We are passionate about development, differentiation and gene regulation. We combine dry and wet lab, spanning from cellular models to embryology, genomics and lots of flow cytometry.
+Our work combines methods from machine learning, computational biology, and neuroscience. We use data from cells, tissues, neurons, and connectomes to study how structure and computation interact across different systems.
 
 <!---
 [Learn more about our research &nbsp;→](research)
@@ -50,7 +54,7 @@ We are passionate about development, differentiation and gene regulation. We com
 
 {% capture text %}
 
-We are currently recruiting to build our team. We are looking for people at all levels, and very keen to have diverse expertise and perspectives.
+We are a small interdisciplinary team and are currently expanding our international presence and collaborations. We welcome collaboration withs people from a wide range of backgrounds in mathematics, computation, and biological sciences.
 
 {%
   include button.html

@@ -1,6 +1,6 @@
 ---
 name: Roberto Tagliaferri
-image: roberto-tagliaferri.jpg
+image: images/roberto-tagliaferri.jpg
 role: pi
 aliases:
   - R. Tagliaferri

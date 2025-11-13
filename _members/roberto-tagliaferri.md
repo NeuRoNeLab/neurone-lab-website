@@ -1,7 +1,8 @@
 ---
 name: Roberto Tagliaferri
 image: images/roberto-tagliaferri.jpg
-role: prof
+role: pi
+description: Full Professor (Head of the Lab)
 aliases:
   - R. Tagliaferri
 links:

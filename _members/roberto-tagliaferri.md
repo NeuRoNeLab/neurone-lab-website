@@ -1,14 +1,15 @@
 ---
 name: Roberto Tagliaferri
 image: images/roberto-tagliaferri.jpg
-role: pi
-description: Full Professor (Head of the Lab)
+role: prof
+description: Head of the Lab (Full Professor)
 aliases:
   - R. Tagliaferri
 links:
   orcid: 0000-0001-8134-9025
-  linkedin: https://www.linkedin.com/in/roberto-tagliaferri-6a7715
+  linkedin: roberto-tagliaferri-6a7715
   google-scholar: WdQ9HBAAAAAJ
+  email: robtag@unisa.it
 ---
 
 ### Research Interests:

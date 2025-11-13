@@ -2,13 +2,15 @@
 name: Francesco Bardozzo
 image: images/francesco-bardozzo.png
 role: pi
+description: Principal Investigator (Assistant Professor)
 aliases:
   - F. Bardozzo
 links:
   orcid: 0000-0003-0199-6623
-  linkedin: https://www.linkedin.com/in/francesco-bardozzo-phd-99769237
+  linkedin: francesco-bardozzo-phd-99769237
   google-scholar: 2--sZt4AAAAJ
   github: lodeguns
+  email: fbardozzo@unisa.it
 ---
 
 ### Research Interests:
@@ -20,7 +22,7 @@ links:
 ### Background
 - BSc in Biotechnology
 - BSc in Computer Science
-- MSc in Computer Science
+- MSc in Computer Science (Machine Learning specialization)
 - PhD in Artificial Intelligence
 
 ### Short Bio

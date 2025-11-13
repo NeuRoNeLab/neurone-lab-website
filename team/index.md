@@ -12,9 +12,9 @@ Meet our team:
 
 {% include section.html %}
 
-{% include list.html data="members" component="portrait" filters="description: Full Professor (Head of the Lab)" %}
+{% include list.html data="members" component="portrait" filters="role: prof" %}
 {% include list.html data="members" component="portrait" filters="role: pi" %}
-{% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %}
+{% include list.html data="members" component="portrait" filters="role: ^(?!prof$|pi$)" %}
 
 {% include section.html background="images/unisa.jpg" dark=true %}
 

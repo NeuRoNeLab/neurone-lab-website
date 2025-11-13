@@ -1,7 +1,7 @@
 ---
 name: Roberto Tagliaferri
 image: images/roberto-tagliaferri.jpg
-role: pi
+role: prof
 aliases:
   - R. Tagliaferri
 links:

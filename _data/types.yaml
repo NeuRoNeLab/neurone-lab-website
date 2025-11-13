@@ -2,6 +2,10 @@
 
 # team member roles
 
+prof:
+  icon: fa-solid fa-microscope
+  description: Full Professor (Head of Lab)
+
 pi:
   icon: fa-solid fa-microscope
   description: Principal Investigator

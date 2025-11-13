@@ -23,4 +23,4 @@ links:
 - PhD Student in Artificial Intelligence for Multimodal Medical Data Analysis
 
 ### Short Bio
-Giuseppe Todisco is a PhD student at the University of Salerno and a member of the NeuRoNeLab research group since 2025. His research revolves around integrating deep learning with mechanism-aware and metabolic modelling approaches for computational systems biology, including applications in cancer modelling, multi-modal data integration, survival analysis, and genome-scale metabolic models.
+Giuseppe Todisco is a PhD student at the University of Salerno and a member of the NeuRoNeLab research group since 2025. His research revolves around noise robustness methods for neural networks, and integrating deep learning with mechanism-aware and metabolic modelling approaches for computational systems biology, including applications in cancer modelling, multi-modal data integration, survival analysis, and genome-scale metabolic models.

@@ -1,6 +1,6 @@
 ---
 name: Giuseppe Todisco
-image: images/peppe-todisco.png
+image: images/peppe-todisco.jpg
 role: phd
 aliases:
   - G. Todisco

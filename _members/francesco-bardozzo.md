@@ -1,6 +1,6 @@
 ---
 name: Francesco Bardozzo
-image: francesco-bardozzo.png
+image: images/francesco-bardozzo.png
 role: pi
 aliases:
   - F. Bardozzo

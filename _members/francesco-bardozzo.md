@@ -22,7 +22,7 @@ links:
 ### Background
 - BSc in Biotechnology
 - BSc in Computer Science
-- MSc in Computer Science (Machine Learning specialization)
+- MSc in Machine Learning
 - PhD in Artificial Intelligence
 
 ### Short Bio

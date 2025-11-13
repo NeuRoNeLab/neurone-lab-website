@@ -15,7 +15,7 @@ links:
 ### Research Interests:
 - Neural Networks
 - Deep Learning for Biomedicine and Neuroscience
-- Bioinformatics
+- Bioinformatics for Clinical Data and Proteomic Data
 
 ### Background
 - MSc in Computer Science

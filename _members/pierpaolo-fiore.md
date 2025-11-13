@@ -19,7 +19,7 @@ links:
 
 ### Background
 - BSc in Computer Science
-- MSc in Computer Science (Machine Learning specialization)
+- MSc in MSc in Machine Learning
 - PhD Student in Artificial Intelligence for Microscopy
 
 ### Short Bio

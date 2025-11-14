@@ -5,7 +5,7 @@ role: phd
 aliases:
   - C. Napoli
 links:
-  orcid: 0000-0002-1892-4645
+  orcid: 0009-0006-7750-5412
   email: chiara.napoli@uniroma1.it
 ---
 

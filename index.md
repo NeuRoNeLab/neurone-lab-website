@@ -7,7 +7,7 @@ At Neurone Lab, we study computation across natural and artificial systems. Our 
 
 {%
   include figure.html
-  image="images/photo_lab2025.jpg"
+  image="images/photo_lab_complete0.jpg"
   width="75%"
 %}
 

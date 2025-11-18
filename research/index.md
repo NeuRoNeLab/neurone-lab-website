@@ -7,9 +7,10 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-flask-vial" %}Research
 
-During development cells specialise in response to signaling cues. To accomplish this, they must turn on and (importantly!) off gene expression programs. Cis-regulatory elements are stretches of DNA within the non-coding genome that can control gene expression with exquisite spatial and temporal precision. We know that cis-regulatory elements are bound by transcription factors, but it is still not trivial to find them and we are not able to predict their activity from sequence. 
+At Neurone Lab we study computation across biological and artificial systems, aiming to understand how structure, dynamics, and information flow give rise to intelligent behaviour. We also use computational and data-driven methods to analyse biological processes and images, helping biologists interpret complex data and uncover mechanistic insights that are difficult to access through experimental techniques alone. Our work brings together machine learning, computational biology, advanced microscopy, and neuroscience to explore shared principles of learning and representation. 
 
-The primary goal of our research is to understand how the **non-coding genome** regulates cell fate decisions during development. Our strategy to achieve this is to study the **mechanistic principles** of cis-regulatory elements in a developmentally relevant model, the developing spinal cord. Long-term, our aim is to predict the functional outcomes of non-coding variation in development and disease.
+Our research spans integrating ideas from natural systems into artificial intelligence systems and the analysis of complex biological datasets. We work with multi-scale data, including single-cell omics from cancer studies, large collections of label-free cellular images, and high-resolution microscopy modalities such as ptychography. This integrated perspective allows us to link structure, function, and computation while developing algorithms, analysis pipelines, and benchmarks that support both biological discovery and technological innovation. Our interdisciplinary approach connects fundamental research with real-world applications across biology and medicine.
+
 
 {% capture text %}
 

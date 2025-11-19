@@ -14,7 +14,7 @@ Our research spans integrating ideas from natural systems into artificial intell
 
 {% capture text %}
 
-To  bridge molecular mechanisms of cis regulation to developmental phenotypic consequences, we combine _in vivo_ embryology with _in vitro_ cellular models that recapitulate the same cell fate decisions. Our favourite model system is the developing spinal cord, where a small combination of signals directs the specification of neural progenitors and therefore which neurons they will make. 
+In our NeuroAI research efforts, we develop models, analytical tools, and deep learning methods inspired by biological organization and dynamics, seeking connections between the way nervous systems process information and how artificial systems can learn more efficiently and effectively. 
 
 {% endcapture %}
 

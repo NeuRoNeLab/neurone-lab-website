@@ -1,354 +1,3018 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1101/2025.08.11.669575
-  title: Reconstructing Waddington's Landscape from Data
+- id: doi:10.1016/j.knosys.2026.115333
+  title: Enhancing feature compression and reconstruction in time-series and image
+    domains with pseudo-overlap and pseudo-grouping pooling functions
   authors:
-  - Dillon J. Cislo
-  - "M Joaquina Del\xE1s"
-  - James Briscoe
-  - Eric D. Siggia
-  publisher: Pre-print on biorxiv
-  date: '2025-08-13'
-  link: https://doi.org/g9xb4z
-  orcid: 0000-0001-9727-9068
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1016/j.devcel.2025.06.029
-  title: The cis-regulatory logic integrating spatial and temporal patterning in the
-    vertebrate neural tube
-  authors:
-  - Isabel Zhang
-  - Giulia L.M. Boezio
-  - Jake Cornwall-Scoones
-  - Thomas Frith
-  - Elizabeth Finnie
-  - Junyi Luo
-  - Ming Jiang
-  - Michael Howell
-  - Robin Lovell-Badge
-  - Andreas Sagner
-  - James Briscoe
-  - "M. Joaquina Del\xE1s"
-  publisher: Developmental Cell
-  date: '2025-11-01'
-  link: https://doi.org/g9vv4c
-  orcid: 0000-0001-9727-9068
-  plugin: sources.py
-  file: sources.yaml
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S1534580725004071-fx1.jpg
-- id: doi:10.1101/2025.05.28.656648
-  title: 'Dynamic Landscape Analysis of Cell Fate Decisions: Predictive Models of
-    Neural Development From Single-Cell Data'
-  authors:
-  - Marine Fontaine
-  - M. Joaquina Delas
-  - Meritxell Saez
-  - Rory J. Maizels
-  - Elizabeth Finnie
-  - James Briscoe
-  - David A. Rand
-  publisher: Pre-print on biorxiv
-  date: '2025-05-28'
-  link: https://doi.org/g9mwf7
-  orcid: 0000-0001-9727-9068
-  plugin: sources.py
-  file: sources.yaml
-  image: images/fig_Marine_website_diagram.png
-- id: doi:10.1101/2025.03.07.642002
-  title: Predictable Engineering of Signal-Dependent Cis-Regulatory Elements
-  authors:
-  - Jake Cornwall-Scoones
-  - Dirk Benzinger
-  - Tianji Yu
-  - Alberto Pezzotta
-  - Andreas Sagner
-  - Lina Gerontogianni
-  - Shaun Bernadet
-  - Elizabeth Finnie
-  - Giulia L. M. Boezio
-  - Hannah T. Stuart
-  - Manuela Melchionda
-  - Oliver C. K. Inge
-  - Bianca Dumitrascu
-  - James Briscoe
-  - "M. Joaquina Del\xE1s"
-  publisher: Pre-print on biorxiv
-  date: '2025-03-07'
-  link: https://doi.org/g87vp8
-  orcid: 0000-0001-9727-9068
-  plugin: sources.py
-  file: sources.yaml
-  image: images/paper-picture-jake.png
-- id: doi:10.1101/2024.04.17.589864
-  title: The cis-regulatory logic integrating spatial and temporal patterning in the
-    vertebrate neural tube
-  authors:
-  - Isabel Zhang
-  - Giulia LM Boezio
-  - Jake Cornwall-Scoones
-  - Thomas Frith
-  - Ming Jiang
-  - Michael Howell
-  - Robin Lovell-Badge
-  - Andreas Sagner
-  - James Briscoe
-  - "M Joaquina Del\xE1s"
-  publisher: Pre-print on biorxiv
-  date: '2024-04-17'
-  link: https://doi.org/gtrd75
-  orcid: 0000-0001-9727-9068
-  plugin: sources.py
-  file: sources.yaml
-  image: images/model_tempo_space_square.png
-- id: doi:10.1016/j.devcel.2022.11.016
-  title: Developmental cell fate choice in neural tube progenitors employs two distinct
-    cis-regulatory strategies
-  authors:
-  - "M. Joaquina Del\xE1s"
-  - Christos M. Kalaitzis
-  - Tamara Fawzi
-  - Madeleine Demuth
-  - Isabel Zhang
-  - Hannah T. Stuart
-  - Elena Costantini
-  - Kenzo Ivanovitch
-  - Elly M. Tanaka
-  - James Briscoe
-  publisher: Developmental Cell
-  date: '2023-01-01'
-  link: https://doi.org/gs4jpk
-  orcid: 0000-0001-9727-9068
-  plugin: sources.py
-  file: sources.yaml
-  image: https://www.cell.com/cms/attachment/fd30bdc8-2e3c-4854-8c82-956355b50d04/fx1.jpg
-- id: doi:10.1101/2022.06.06.494792
-  title: Developmental cell fate choice employs two distinct cis regulatory strategies
-  authors:
-  - "M. Joaquina Del\xE1s"
-  - Christos M Kalaitzis
-  - Tamara Fawzi
-  - Madeleine Demuth
-  - Isabel Zhang
-  - Hannah T Stuart
-  - Elena Costantini
-  - Kenzo Ivanovitch
-  - Elly M Tanaka
-  - James Briscoe
-  publisher: Pre-print on biorxiv
-  date: '2022-06-06'
-  link: https://doi.org/gsz8jn
-  orcid: 0000-0001-9727-9068
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1038/s41556-022-00910-2
-  title: Sox2 levels regulate the chromatin occupancy of WNT mediators in epiblast
-    progenitors responsible for vertebrate body formation
-  authors:
-  - Robert Blassberg
-  - Harshil Patel
-  - Thomas Watson
-  - Mina Gouti
-  - Vicki Metzis
-  - "M. Joaquina Del\xE1s"
-  - James Briscoe
-  publisher: Nature Cell Biology
-  date: '2022-05-01'
-  link: https://doi.org/gs4jpm
-  orcid: 0000-0001-9727-9068
-  plugin: sources.py
-  file: sources.yaml
-  image: images/Fig_BCat_Sox2_model.png
-- id: doi:10.1038/s41467-022-29098-7
-  title: Cell-intrinsic Aryl Hydrocarbon Receptor signalling is required for the resolution
-    of injury-induced colonic stem cells
-  authors:
-  - Kathleen Shah
-  - Muralidhara Rao Maradana
-  - "M. Joaquina Del\xE0s"
-  - Amina Metidji
-  - Frederike Graelmann
-  - Miriam Llorian
-  - Probir Chakravarty
-  - Ying Li
-  - Mauro Tolaini
-  - Michael Shapiro
-  - Gavin Kelly
-  - Chris Cheshire
-  - Deendyal Bhurta
-  - Sandip B. Bharate
-  - Brigitta Stockinger
-  publisher: Nature Communications
-  date: '2022-04-05'
-  link: https://doi.org/gs4jpn
-  orcid: 0000-0001-9727-9068
+  - Matteo Carollo
+  - Mikel Ferrero-Jaurrieta
+  - Rui Paiva
+  - Francesco Bardozzo
+  - Roberto Tagliaferri
+  publisher: Knowledge-Based Systems
+  date: '2026-03-01'
+  link: https://doi.org/hbphc4
+  orcid: 0009-0007-6391-7851
+  roberto-tagliaferri: true
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.21203/rs.3.rs-827700/v1
-  title: Cell-intrinsic Aryl Hydrocarbon Receptor signalling is required for the resolution
-    of injury-induced colonic stem cells
+  francesco-bardozzo: true
+  matteo-carollo: true
+- id: doi:10.1016/j.compbiomed.2025.110274
+  title: Advancing label-free cell classification with connectome-inspired explainable
+    models and a novel LIVECell-CLS dataset
   authors:
-  - Kathleen Shah
-  - Muralidhara Rao Maradana
-  - M Joaquina Delas
-  - Amina Metidji
-  - Frederike Graelmann
-  - Miriam Llorian
-  - Probir Chakravarty
-  - Ying Li
-  - Mauro Tolaini
-  - Michael Shapiro
-  - Gavin Kelly
-  - Brigitta Stockinger
+  - Pierpaolo Fiore
+  - Andrea Terlizzi
+  - Francesco Bardozzo
+  - "Pietro Li\xF2"
+  - Roberto Tagliaferri
+  publisher: Computers in Biology and Medicine
+  date: '2025-06-01'
+  link: https://doi.org/hbphc5
+  orcid: 0000-0002-4963-8596
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+  francesco-bardozzo: true
+  pierpaolo-fiore: true
+  andrea-terlizzi: true
+- id: doi:10.1111/exd.15131
+  title: 'Topical use of tobramycin: A possible innovative treatment of severe skin
+    chronic ulcers'
+  authors:
+  - Corrado Cirielli
+  - Francesco Facchiano
+  - Mauro Picardo
+  - Marco Benedetto
+  - Roberto Tagliaferri
+  - Stefano Tagliaferri
+  - Giuseppe Piccinni
+  - Annarita Panebianco
+  - Antonio Facchiano
+  publisher: Experimental Dermatology
+  date: '2024-07-01'
+  link: https://doi.org/hbphc6
+  orcid: 0000-0001-8134-9025
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.neucom.2024.127598
+  title: 'Elegans-AI: How the connectome of a living organism could model artificial
+    neural networks'
+  authors:
+  - Francesco Bardozzo
+  - Andrea Terlizzi
+  - Claudio Simoncini
+  - "Pietro Li\xF3"
+  - Roberto Tagliaferri
+  publisher: Neurocomputing
+  date: '2024-06-01'
+  link: https://doi.org/hbphc7
+  orcid: 0000-0002-4963-8596
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+  francesco-bardozzo: true
+  andrea-terlizzi: true
+- id: doi:10.1039/d3lc00385j
+  title: Label-free cell classification in holographic flow cytometry through an unbiased
+    learning strategy
+  authors:
+  - Gioele Ciaparrone
+  - Daniele Pirone
+  - Pierpaolo Fiore
+  - Lu Xin
+  - Wen Xiao
+  - Xiaoping Li
+  - Francesco Bardozzo
+  - Vittorio Bianco
+  - Lisa Miccio
+  - Feng Pan
+  - Pasquale Memmolo
+  - Roberto Tagliaferri
+  - Pietro Ferraro
+  publisher: Lab on a Chip
+  date: '2024-01-01'
+  link: https://doi.org/g2p2r3
+  orcid: 0000-0002-7543-2073
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+  francesco-bardozzo: true
+  pierpaolo-fiore: true
+- id: doi:10.21203/rs.3.rs-3005708/v2
+  title: 'ElegansAI: how a biological neural network would compare with artificial
+    networks?'
+  authors:
+  - Francesco Bardozzo
+  - Andrea Terlizzi
+  - Pietro Lio
+  - Roberto Tagliaferri
   publisher: Springer Science and Business Media LLC
-  date: '2021-09-02'
-  link: https://doi.org/gs4jpp
-  orcid: 0000-0001-9727-9068
+  date: '2023-06-13'
+  link: https://doi.org/hbphc8
+  orcid: 0000-0003-0199-6623
+  roberto-tagliaferri: true
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2020.12.29.424684
-  title: Sox2 levels configure the WNT response of epiblast progenitors responsible
-    for vertebrate body formation
+  francesco-bardozzo: true
+- id: doi:10.21203/rs.3.rs-3005708/v1
+  title: 'ElegansAI: how a biological neural network would compare with artificial
+    networks?'
   authors:
-  - Robert Blassberg
-  - Harshil Patel
-  - Thomas Watson
-  - Mina Gouti
-  - Vicki Metzis
-  - "M Joaquina Del\xE1s"
-  - James Briscoe
-  publisher: Pre-print on biorxiv
-  date: '2020-12-30'
-  link: https://doi.org/gsxbzt
-  orcid: 0000-0001-9727-9068
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1016/bs.ctdb.2020.03.003
-  title: 'Repressive interactions in gene regulatory networks: When you have no other
-    choice'
-  authors: []
-  publisher: Current Topics in Developmental Biology
+  - Francesco Bardozzo
+  - Andrea Terlizzi
+  - Pietro Lio
+  - Roberto Tagliaferri
+  publisher: Springer Science and Business Media LLC
+  date: '2023-06-06'
+  link: https://doi.org/hbphc9
+  orcid: 0000-0003-0199-6623
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+  francesco-bardozzo: true
+- id: doi:10.1101/2023.04.23.537987
+  title: "<i>ElegansNet</i>\n                  : a brief scientific report and initial\
+    \ experiments"
+  authors:
+  - Francesco Bardozzo
+  - Andrea Terlizzi
+  - "Pietro Li\xF3"
+  - Roberto Tagliaferri
+  publisher: openRxiv
+  date: '2023-04-24'
+  link: https://doi.org/hbphdb
+  orcid: 0000-0002-4963-8596
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+  francesco-bardozzo: true
+  andrea-terlizzi: true
+- id: doi:10.3390/ijms24076775
+  title: Machine Learning as a Support for the Diagnosis of Type 2 Diabetes
+  authors:
+  - Antonio Agliata
+  - Deborah Giordano
+  - Francesco Bardozzo
+  - Salvatore Bottiglieri
+  - Angelo Facchiano
+  - Roberto Tagliaferri
+  publisher: International Journal of Molecular Sciences
+  date: '2023-04-05'
+  link: https://doi.org/gtnwzq
+  orcid: 0000-0003-0199-6623
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+  francesco-bardozzo: true
+- id: doi:10.1016/j.csbj.2023.10.056
+  title: An automated pipeline integrating AlphaFold 2 and MODELLER for protein structure
+    prediction
+  authors:
+  - Fabio Hernan Gil Zuluaga
+  - "Nancy D\u2019Arminio"
+  - Francesco Bardozzo
+  - Roberto Tagliaferri
+  - Anna Marabotti
+  publisher: Computational and Structural Biotechnology Journal
+  date: '2023-01-01'
+  link: https://doi.org/hbphdc
+  orcid: 0000-0003-0199-6623
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+  francesco-bardozzo: true
+- id: doi:10.1109/JSTQE.2022.3154236
+  title: Deep Learning-Based, Misalignment Resilient, Real-Time Fourier Ptychographic
+    Microscopy Reconstruction of Biological Tissue Slides
+  authors:
+  - Vittorio Bianco
+  - Mattia Delli Priscoli
+  - Daniele Pirone
+  - Gennaro Zanfardino
+  - Pasquale Memmolo
+  - Francesco Bardozzo
+  - Lisa Miccio
+  - Gioele Ciaparrone
+  - Pietro Ferraro
+  - Roberto Tagliaferri
+  publisher: IEEE Journal of Selected Topics in Quantum Electronics
+  date: '2022-07-01'
+  link: https://doi.org/hbphdd
+  orcid: 0000-0003-0199-6623
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+  francesco-bardozzo: true
+- id: doi:10.3390/molecules27051747
+  title: Investigating the Effects of Amino Acid Variations in Human Menin
+  authors:
+  - Carmen Biancaniello
+  - "Antonia D\u2019Argenio"
+  - Deborah Giordano
+  - Serena Dotolo
+  - Bernardina Scafuri
+  - Anna Marabotti
+  - "Antonio d\u2019Acierno"
+  - Roberto Tagliaferri
+  - Angelo Facchiano
+  publisher: Molecules
+  date: '2022-03-07'
+  link: https://doi.org/g4npc3
+  orcid: 0000-0001-8134-9025
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/embc46164.2021.9630502
+  title: Blind microscopy image denoising with a deep residual and multiscale encoder/decoder
+    network
+  authors:
+  - Fabio Hernan Gil Zuluaga
+  - Francesco Bardozzo
+  - Jorge Ivan Rios Patino
+  - Roberto Tagliaferri
+  publisher: 2021 43rd Annual International Conference of the IEEE Engineering in
+    Medicine &amp; Biology Society (EMBC)
+  date: '2021-11-01'
+  link: https://doi.org/gt34q8
+  orcid: 0000-0001-8134-9025
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: ':'
+  title: Raw holograms based machine learning for cancer cells classification in microfluidics
+  publisher: OSA Imaging and Applied Optics Congress 2021 (3D, COSI, DH, ISA, pcAOP)
+  date: '2021-12-31'
+  link: https://www.osapublishing.org/abstract.cfm?uri=DH-2021-DTh1D.3
+  orcid: 0000-0001-8134-9025
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/bioinformatics/btaa966
+  title: Signal metrics analysis of oscillatory patterns in bacterial multi-omic networks
+  authors:
+  - Francesco Bardozzo
+  - "Pietro Li\xF3"
+  - Roberto Tagliaferri
+  publisher: Bioinformatics
+  date: '2020-12-16'
+  link: https://doi.org/g44tb5
+  orcid: 0000-0003-0199-6623
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+  francesco-bardozzo: true
+- id: doi:10.1016/j.inffus.2020.10.020
+  title: Sugeno integral generalization applied to improve adaptive image binarization
+  authors:
+  - Francesco Bardozzo
+  - Borja De La Osa
+  - "\u013Dubom\xEDra Horansk\xE1"
+  - Javier Fumanal-Idocin
+  - Mattia delli Priscoli
+  - Luigi Troiano
+  - Roberto Tagliaferri
+  - Javier Fernandez
+  - Humberto Bustince
+  publisher: Information Fusion
+  date: '2021-04-01'
+  link: https://doi.org/hbphdf
+  orcid: 0000-0003-0199-6623
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+  francesco-bardozzo: true
+- id: doi:10.1093/bib/bbaa288
+  title: A review on drug repurposing applicable to COVID-19
+  authors:
+  - Serena Dotolo
+  - Anna Marabotti
+  - Angelo Facchiano
+  - Roberto Tagliaferri
+  publisher: Briefings in Bioinformatics
+  date: '2020-11-05'
+  link: https://doi.org/gmg9z9
+  orcid: 0000-0001-8134-9025
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/JSTQE.2021.3059532
+  title: Neuroblastoma Cells Classification Through Learning Approaches by Direct
+    Analysis of Digital Holograms
+  authors:
+  - Mattia Delli Priscoli
+  - Pasquale Memmolo
+  - Gioele Ciaparrone
+  - Vittorio Bianco
+  - Francesco Merola
+  - Lisa Miccio
+  - Francesco Bardozzo
+  - Daniele Pirone
+  - Martina Mugnano
+  - Flora Cimmino
+  - Mario Capasso
+  - Achille Iolascon
+  - Pietro Ferraro
+  - Roberto Tagliaferri
+  publisher: IEEE Journal of Selected Topics in Quantum Electronics
+  date: '2021-09-01'
+  link: https://doi.org/gr49dp
+  orcid: 0000-0003-0199-6623
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+  francesco-bardozzo: true
+- id: doi:10.1109/IJCNN48605.2020.9206854
+  title: A comparative analysis of multi-backbone Mask R-CNN for surgical tools detection
+  authors:
+  - Gioele Ciaparrone
+  - Francesco Bardozzo
+  - Mattia Delli Priscoli
+  - Juanita Londono Kallewaard
+  - Maycol Ruiz Zuluaga
+  - Roberto Tagliaferri
+  publisher: 2020 International Joint Conference on Neural Networks (IJCNN)
+  date: '2020-07-01'
+  link: https://doi.org/hbphdg
+  orcid: 0000-0001-8134-9025
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-030-34585-3_18
+  title: Automatic Discrimination of Auditory Stimuli Perceived by the Human Brain
+  authors:
+  - Angela Serra
+  - Antonio della Pietra
+  - Marcus Herdener
+  - Roberto Tagliaferri
+  - Fabrizio Esposito
+  publisher: Lecture Notes in Computer Science
   date: '2020-01-01'
-  link: https://doi.org/gs4jpq
-  orcid: 0000-0001-9727-9068
+  link: https://doi.org/hbphdh
+  orcid: 0000-0001-8134-9025
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.neucom.2019.11.023
+  title: 'Deep learning in video multi-object tracking: A survey'
+  authors:
+  - Gioele Ciaparrone
+  - "Francisco Luque S\xE1nchez"
+  - Siham Tabik
+  - Luigi Troiano
+  - Roberto Tagliaferri
+  - Francisco Herrera
+  publisher: Neurocomputing
+  date: '2020-03-01'
+  link: https://doi.org/ggfgt3
+  orcid: 0000-0001-8134-9025
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-981-13-8950-4_11
+  title: "Dimension Reduction Techniques in a Brain\u2013Computer Interface Application"
+  authors:
+  - Federico Cozza
+  - Paola Galdi
+  - Angela Serra
+  - Gabriele Pasqua
+  - Luigi Pavone
+  - Roberto Tagliaferri
+  publisher: Smart Innovation, Systems and Technologies
+  date: '2019-09-19'
+  link: https://doi.org/hbphdj
+  orcid: 0000-0001-8134-9025
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/IJCNN48605.2020.9207471
+  title: Motor strength classification with machine learning approaches applied to
+    anatomical neuroimages
+  authors:
+  - Francesco Bardozzo
+  - Sebastian Cano Uribe
+  - Andrea G. Russo
+  - Mateo Jimenez Castano
+  - Mattia Delli Priscolli
+  - Fabrizio Esposito
+  - Roberto Tagliaferri
+  publisher: 2020 International Joint Conference on Neural Networks (IJCNN)
+  date: '2020-07-01'
+  link: https://doi.org/hbphdk
+  orcid: 0000-0001-8134-9025
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-981-13-1328-8_84
+  title: A Deep Learning Approach for Road Damage Classification
+  authors:
+  - Gioele Ciaparrone
+  - Angela Serra
+  - Vito Covito
+  - Paolo Finelli
+  - Carlo Alberto Scarpato
+  - Roberto Tagliaferri
+  publisher: Lecture Notes in Electrical Engineering
+  date: '2018-11-29'
+  link: https://doi.org/hbphdm
+  orcid: 0000-0001-8134-9025
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-030-14160-8_19
+  title: Hierarchical Block Matrix Approach for Multi-view Clustering
+  authors:
+  - Angela Serra
+  - Maria Domenica Guida
+  - "Pietro Li\xF3"
+  - Roberto Tagliaferri
+  publisher: Lecture Notes in Computer Science
+  date: '2019-01-01'
+  link: https://doi.org/hbphdn
+  orcid: 0000-0001-8134-9025
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41598-018-37411-y
+  title: 'INSIdE NANO: a systems biology framework to contextualize the mechanism-of-action
+    of engineered nanomaterials'
+  authors:
+  - Angela Serra
+  - Ivica Letunic
+  - Vittorio Fortino
+  - Richard D. Handy
+  - Bengt Fadeel
+  - Roberto Tagliaferri
+  - Dario Greco
+  publisher: Scientific Reports
+  date: '2019-01-17'
+  link: https://doi.org/gh9jhr
+  orcid: 0000-0001-8134-9025
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: eid:2-s2.0-85063031663
+  title: Preface
+  publisher: Lecture Notes in Computer Science (including subseries Lecture Notes
+    in Artificial Intelligence and Lecture Notes in Bioinformatics)
+  date: '2022-06-01'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-85063031663&partnerID=MN8TOARS
+  orcid: 0000-0001-8134-9025
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s12021-018-9412-y
+  title: Stochastic Rank Aggregation for the Identification of Functional Neuromarkers
+  authors:
+  - Paola Galdi
+  - Michele Fratello
+  - Francesca Trojsi
+  - Antonio Russo
+  - Gioacchino Tedeschi
+  - Roberto Tagliaferri
+  - Fabrizio Esposito
+  publisher: Neuroinformatics
+  date: '2019-01-02'
+  link: https://doi.org/hbphdp
+  orcid: 0000-0001-8134-9025
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1142/S0129065719500072
+  title: "Strong\u2013Weak Pruning for Brain Network Identification in Connectome-Wide\
+    \ Neuroimaging: Application to Amyotrophic Lateral Sclerosis Disease Stage Characterization"
+  authors:
+  - Angela Serra
+  - Paola Galdi
+  - Emanuele Pesce
+  - Michele Fratello
+  - Francesca Trojsi
+  - Gioacchino Tedeschi
+  - Roberto Tagliaferri
+  - Fabrizio Esposito
+  publisher: International Journal of Neural Systems
+  date: '2019-08-06'
+  link: https://doi.org/hbphdq
+  orcid: 0000-0001-8134-9025
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/s12859-018-2175-5
+  title: A study on multi-omic oscillations in Escherichia coli metabolic networks
+  authors:
+  - Francesco Bardozzo
+  - "Pietro Li\xF3"
+  - Roberto Tagliaferri
+  publisher: BMC Bioinformatics
+  date: '2018-07-01'
+  link: https://doi.org/hbphds
+  orcid: 0000-0003-0199-6623
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+  francesco-bardozzo: true
+- id: doi:10.1007/s00500-017-2596-5
+  title: Consensus-based feature extraction in rs-fMRI data analysis
+  authors:
+  - Paola Galdi
+  - Michele Fratello
+  - Francesca Trojsi
+  - Antonio Russo
+  - Gioacchino Tedeschi
+  - Roberto Tagliaferri
+  - Fabrizio Esposito
+  publisher: Soft Computing
+  date: '2017-04-11'
+  link: https://doi.org/gdjq2k
+  orcid: 0000-0001-8134-9025
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/B978-0-12-809633-8.20474-3
+  title: 'Data Mining: Accuracy and Error Measures for Classification and Prediction'
+  authors:
+  - Paola Galdi
+  - Roberto Tagliaferri
+  publisher: Encyclopedia of Bioinformatics and Computational Biology
+  date: '2019-01-01'
+  link: https://doi.org/hc83
+  orcid: 0000-0001-8134-9025
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/B978-0-12-809633-8.20337-3
+  title: Decision Trees and Random Forests
+  authors:
+  - Michele Fratello
+  - Roberto Tagliaferri
+  publisher: Encyclopedia of Bioinformatics and Computational Biology
+  date: '2019-01-01'
+  link: https://doi.org/hbphdt
+  orcid: 0000-0001-8134-9025
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/widm.1248
+  title: Machine learning for bioinformatics and neuroimaging
+  authors:
+  - Angela Serra
+  - Paola Galdi
+  - Roberto Tagliaferri
+  publisher: WIREs Data Mining and Knowledge Discovery
+  date: '2018-02-22'
+  link: https://doi.org/gjwdw9
+  orcid: 0000-0001-8134-9025
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/B978-0-12-815480-9.00013-X
+  title: Multiview Learning in Biomedical Applications
+  authors:
+  - Angela Serra
+  - Paola Galdi
+  - Roberto Tagliaferri
+  publisher: Artificial Intelligence in the Age of Neural Networks and Brain Computing
+  date: '2019-01-01'
+  link: https://doi.org/hbphdv
+  orcid: 0000-0001-8134-9025
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/bioinformatics/btx642
+  title: Robust and sparse correlation matrix estimation for the analysis of high-dimensional
+    genomics data
+  authors:
+  - Angela Serra
+  - Pietro Coretto
+  - Michele Fratello
+  - Roberto Tagliaferri
+  publisher: Bioinformatics
+  date: '2017-10-12'
+  link: https://doi.org/gb379t
+  orcid: 0000-0001-8134-9025
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/bioinformatics/bty502
+  title: Robust clustering of noisy high-dimensional gene expression data for patients
+    subtyping
+  authors:
+  - Pietro Coretto
+  - Angela Serra
+  - Roberto Tagliaferri
+  publisher: Bioinformatics
+  date: '2018-06-22'
+  link: https://doi.org/hbphdw
+  orcid: 0000-0001-8134-9025
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/B978-0-12-809633-8.20487-1
+  title: 'Unsupervised Learning: Clustering'
+  authors:
+  - Angela Serra
+  - Roberto Tagliaferri
+  publisher: Encyclopedia of Bioinformatics and Computational Biology
+  date: '2019-01-01'
+  link: https://doi.org/hbphdx
+  orcid: 0000-0001-8134-9025
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/bioinformatics/btx313
+  title: "<i>E</i>\n          \_2\n          \_<i>FM</i>: an encrypted and compressed\
+    \ full-text index for collections of genomic sequences"
+  authors:
+  - Ferdinando Montecuollo
+  - Giovannni Schmid
+  - Roberto Tagliaferri
+  publisher: Bioinformatics
+  date: '2017-05-11'
+  link: https://doi.org/f97jms
+  orcid: 0000-0001-8134-9025
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s12021-017-9324-2
+  title: Multi-View Ensemble Classification of Brain Connectivity Images for Neurodegeneration
+    Type Discrimination
+  authors:
+  - Michele Fratello
+  - Giuseppina Caiazzo
+  - Francesca Trojsi
+  - Antonio Russo
+  - Gioacchino Tedeschi
+  - Roberto Tagliaferri
+  - Fabrizio Esposito
+  publisher: Neuroinformatics
+  date: '2017-02-16'
+  link: https://doi.org/hbphdz
+  orcid: 0000-0001-8134-9025
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.9783/9780812201130.ix
+  title: Preface
+  authors: []
+  publisher: The Capture of Constantinople
+  date: '1997-12-31'
+  link: https://doi.org/hbphd2
+  orcid: 0000-0001-8134-9025
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-319-52962-2_20
+  title: 'Rotation Clustering: A Consensus Clustering Approach to Cluster Gene Expression
+    Data'
+  authors:
+  - Paola Galdi
+  - Angela Serra
+  - Roberto Tagliaferri
+  publisher: Lecture Notes in Computer Science
+  date: '2017-01-01'
+  link: https://doi.org/hbphd3
+  orcid: 0000-0001-8134-9025
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/bioinformatics/btw330
+  title: 'CONDOP: an R package for CONdition-Dependent Operon Predictions'
+  authors:
+  - Vittorio Fortino
+  - Roberto Tagliaferri
+  - Dario Greco
+  publisher: Bioinformatics
+  date: '2016-06-13'
+  link: https://doi.org/gbrb3c
+  orcid: 0000-0001-8134-9025
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/CEC.2016.7743934
+  title: Data integration in genomics and systems biology
+  authors:
+  - Angela Serra
+  - Michele Fratello
+  - Dario Greco
+  - Roberto Tagliaferri
+  publisher: 2016 IEEE Congress on Evolutionary Computation (CEC)
+  date: '2016-07-01'
+  link: https://doi.org/hbphd4
+  orcid: 0000-0001-8134-9025
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/RTSI.2016.7740567
+  title: Effectiveness of projection techniques in genomic data analysis
+  authors:
+  - Paola Galdi
+  - Angela Serra
+  - Dario Greco
+  - Roberto Tagliaferri
+  publisher: 2016 IEEE 2nd International Forum on Research and Technologies for Society
+    and Industry Leveraging a better tomorrow (RTSI)
+  date: '2016-09-01'
+  link: https://doi.org/hbphd5
+  orcid: 0000-0001-8134-9025
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/s12859-015-0577-1
+  title: A multi-view genomic data simulator
+  authors:
+  - Michele Fratello
+  - Angela Serra
+  - Vittorio Fortino
+  - Giancarlo Raiconi
+  - Roberto Tagliaferri
+  - Dario Greco
+  publisher: BMC Bioinformatics
+  date: '2015-05-12'
+  link: https://doi.org/gb8w77
+  orcid: 0000-0001-8134-9025
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: eid:2-s2.0-84949957660
+  title: "Computational intelligence methods for bioinformatics and biostatistics:\
+    \ 11th international meeting, CIBB 2014 Cambridge, UK, june 26\u201328, 2014 revised\
+    \ selected papers"
+  publisher: Lecture Notes in Computer Science (including subseries Lecture Notes
+    in Artificial Intelligence and Lecture Notes in Bioinformatics)
+  date: '2022-06-01'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-84949957660&partnerID=MN8TOARS
+  orcid: 0000-0001-8134-9025
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-319-24462-4_5
+  title: Consensus Clustering in Gene Expression
+  authors:
+  - Paola Galdi
+  - Francesco Napolitano
+  - Roberto Tagliaferri
+  publisher: Lecture Notes in Computer Science
+  date: '2015-01-01'
+  link: https://doi.org/hbphd6
+  orcid: 0000-0001-8134-9025
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/IJCNN.2015.7280445
+  title: Impact of different metrics on multi-view clustering
+  authors:
+  - Angela Serra
+  - Dario Greco
+  - Roberto Tagliaferri
+  publisher: 2015 International Joint Conference on Neural Networks (IJCNN)
+  date: '2015-07-01'
+  link: https://doi.org/hbphd7
+  orcid: 0000-0001-8134-9025
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/s12859-015-0680-3
+  title: 'MVDA: a multi-view genomic data integration methodology'
+  authors:
+  - Angela Serra
+  - Michele Fratello
+  - Vittorio Fortino
+  - Giancarlo Raiconi
+  - Roberto Tagliaferri
+  - Dario Greco
+  publisher: BMC Bioinformatics
+  date: '2015-08-19'
+  link: https://doi.org/gb8wxt
+  orcid: 0000-0001-8134-9025
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/IJCNN.2015.7280853
+  title: Multi omic oscillations in bacterial pathways
+  authors:
+  - Francesco Bardozzo
+  - Pietro Lio
+  - Roberto Tagliaferri
+  publisher: 2015 International Joint Conference on Neural Networks (IJCNN)
+  date: '2015-07-01'
+  link: https://doi.org/hbphd8
+  orcid: 0000-0003-0199-6623
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+  francesco-bardozzo: true
+- id: eid:2-s2.0-84949936067
+  title: Preface
+  publisher: Lecture Notes in Computer Science (including subseries Lecture Notes
+    in Artificial Intelligence and Lecture Notes in Bioinformatics)
+  date: '2022-06-01'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-84949936067&partnerID=MN8TOARS
+  orcid: 0000-0001-8134-9025
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-319-04129-2_7
+  title: An Adaptive Reference Point Approach to Efficiently Search Large Chemical
+    Databases
+  authors:
+  - Francesco Napolitano
+  - Roberto Tagliaferri
+  - Pierre Baldi
+  publisher: Smart Innovation, Systems and Technologies
+  date: '2014-01-01'
+  link: https://doi.org/hbphd9
+  orcid: 0000-0001-8134-9025
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: eid:2-s2.0-84905373023
+  title: Preface
+  publisher: Lecture Notes in Computer Science (including subseries Lecture Notes
+    in Artificial Intelligence and Lecture Notes in Bioinformatics)
+  date: '2022-06-01'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-84905373023&partnerID=MN8TOARS
+  orcid: 0000-0001-8134-9025
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/1471-2105-15-145
+  title: Transcriptome dynamics-based operon prediction in prokaryotes
+  authors:
+  - Vittorio Fortino
+  - Olli-Pekka Smolander
+  - Petri Auvinen
+  - Roberto Tagliaferri
+  - Dario Greco
+  publisher: BMC Bioinformatics
+  date: '2014-05-16'
+  link: https://doi.org/f59vx7
+  orcid: 0000-0001-8134-9025
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s00521-012-0902-9
+  title: An improved combinatorial biclustering algorithm
+  authors:
+  - Ekaterina Nosova
+  - Francesco Napolitano
+  - Roberto Amato
+  - Sergio Cocozza
+  - Gennaro Miele
+  - Giancarlo Raiconi
+  - Roberto Tagliaferri
+  publisher: Neural Computing and Applications
+  date: '2012-03-10'
+  link: https://doi.org/g7s8fv
+  orcid: 0000-0001-8134-9025
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/1471-2105-14-201
+  title: Bioinformatic pipelines in Python with Leaf
+  authors:
+  - Francesco Napolitano
+  - Renato Mariani-Costantini
+  - Roberto Tagliaferri
+  publisher: BMC Bioinformatics
+  date: '2013-06-21'
+  link: https://doi.org/f48srv
+  orcid: 0000-0001-8134-9025
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: eid:2-s2.0-84883471757
+  title: 'Distinctive gene expression profiles in Balb/3T3 cells exposed to low dose
+    cobalt nanoparticles, microparticles and ions: Potential nanotoxicological relevance'
+  publisher: Journal of Biological Regulators and Homeostatic Agents
+  date: '2022-06-01'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-84883471757&partnerID=MN8TOARS
+  orcid: 0000-0001-8134-9025
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/1758-2946-5-30
+  title: 'Drug repositioning: a machine-learning approach through data integration'
+  authors:
+  - Francesco Napolitano
+  - Yan Zhao
+  - "V\xE2nia M Moreira"
+  - Roberto Tagliaferri
+  - Juha Kere
+  - "Mauro D\u2019Amato"
+  - Dario Greco
+  publisher: Journal of Cheminformatics
+  date: '2013-06-22'
+  link: https://doi.org/f243g5
+  orcid: 0000-0001-8134-9025
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s00401-013-1165-y
+  title: Integrative genetic, epigenetic and pathological analysis of paraganglioma
+    reveals complex dysregulation of NOTCH signaling
+  authors:
+  - Alessandro Cama
+  - Fabio Verginelli
+  - Lavinia Vittoria Lotti
+  - Francesco Napolitano
+  - Annalisa Morgano
+  - "Andria D\u2019Orazio"
+  - Michele Vacca
+  - Silvia Perconti
+  - Felice Pepe
+  - Federico Romani
+  - Francesca Vitullo
+  - Filippo di Lella
+  - Rosa Visone
+  - Massimo Mannelli
+  - Hartmut P. H. Neumann
+  - Giancarlo Raiconi
+  - Carlo Paties
+  - Antonio Moschetta
+  - Roberto Tagliaferri
+  - Angelo Veronese
+  - Mario Sanna
+  - Renato Mariani-Costantini
+  publisher: Acta Neuropathologica
+  date: '2013-08-18'
+  link: https://doi.org/f5cfkg
+  orcid: 0000-0001-8134-9025
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: eid:2-s2.0-84871577990
+  title: 'Lecture Notes in Computer Science (including subseries Lecture Notes in
+    Artificial Intelligence and Lecture Notes in Bioinformatics): Preface'
+  publisher: Lecture Notes in Computer Science (including subseries Lecture Notes
+    in Artificial Intelligence and Lecture Notes in Bioinformatics)
+  date: '2022-06-01'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-84871577990&partnerID=MN8TOARS
+  orcid: 0000-0001-8134-9025
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-642-35686-5_19
+  title: Supporting the Design, Communication and Management of Bioinformatic Protocols
+    through the Leaf Tool
+  authors:
+  - Francesco Napolitano
+  - Roberto Tagliaferri
+  publisher: Lecture Notes in Computer Science
+  date: '2012-01-01'
+  link: https://doi.org/hbphfb
+  orcid: 0000-0001-8134-9025
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3233/978-1-60750-692-8-44
+  title: A Combinatoric biclustering algorithm
+  authors:
+  - ' Nosova Ekaterina'
+  - ' Raiconi Giancarlo'
+  - ' Tagliaferri Roberto'
+  publisher: Frontiers in Artificial Intelligence and Applications
+  date: '2011-01-01'
+  link: https://doi.org/hbphfc
+  orcid: 0000-0001-8134-9025
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/CIDM.2011.5949454
+  title: A multi-Biclustering Combinatorial Based algorithm
+  authors:
+  - Ekaterina Nosova
+  - Giancarlo Raiconi
+  - Roberto Tagliaferri
+  publisher: 2011 IEEE Symposium on Computational Intelligence and Data Mining (CIDM)
+  date: '2011-04-01'
+  link: https://doi.org/bdc9g4
+  orcid: 0000-0001-8134-9025
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s00500-010-0595-x
+  title: Advances in Computational Intelligence and Bioinformatics
+  authors:
+  - Francesco Masulli
+  - Roberto Tagliaferri
+  publisher: Soft Computing
+  date: '2010-03-20'
+  link: https://doi.org/bssgjs
+  orcid: 0000-0001-8134-9025
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s10549-011-1645-5
+  title: Artificial neural network analysis of circulating tumor cells in metastatic
+    breast cancer patients
+  authors:
+  - Antonio Giordano
+  - Mario Giuliano
+  - Michelino De Laurentiis
+  - Antonio Eleuteri
+  - Francesco Iorio
+  - Roberto Tagliaferri
+  - Gabriel N. Hortobagyi
+  - Lajos Pusztai
+  - Sabino De Placido
+  - Kenneth Hess
+  - Massimo Cristofanilli
+  - James M. Reuben
+  publisher: Breast Cancer Research and Treatment
+  date: '2011-06-28'
+  link: https://doi.org/c3jgvs
+  orcid: 0000-0001-8134-9025
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.patrec.2011.05.003
+  title: 'Beyond classical consensus clustering: The least squares approach to multiple
+    solutions'
+  authors:
+  - L. Murino
+  - C. Angelini
+  - I. De Feis
+  - G. Raiconi
+  - R. Tagliaferri
+  publisher: Pattern Recognition Letters
+  date: '2011-09-01'
+  link: https://doi.org/cnzpf3
+  orcid: 0000-0001-8134-9025
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-642-21946-7_12
+  title: Biclustering by Resampling
+  authors:
+  - Ekaterina Nosova
+  - Roberto Tagliaferri
+  - Francesco Masulli
+  - Stefano Rovetta
+  publisher: Lecture Notes in Computer Science
+  date: '2011-01-01'
+  link: https://doi.org/dcpx66
+  orcid: 0000-0001-8134-9025
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/IJCNN.2010.5596608
+  title: A scalable reference-point based algorithm to efficiently search large chemical
+    databases
+  authors:
+  - Francesco Napolitano
+  - Roberto Tagliaferri
+  - Pierre Baldi
+  publisher: The 2010 International Joint Conference on Neural Networks (IJCNN)
+  date: '2010-07-01'
+  link: https://doi.org/dbkcsx
+  orcid: 0000-0001-8134-9025
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/MCI.2009.935311
+  title: Data Mining in Cancer Research [Application Notes
+  authors:
+  - Paulo Lisboa
+  - Alfredo Vellido
+  - Roberto Tagliaferri
+  - Francesco Napolitano
+  - Michele Ceccarelli
+  - Jose Martin-Guerrero
+  - Elia Biganzoli
+  publisher: IEEE Computational Intelligence Magazine
+  date: '2010-02-01'
+  link: https://doi.org/c2z8qn
+  orcid: 0000-0001-8134-9025
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1073/pnas.1000138107
+  title: Discovery of drug mode of action and drug repositioning from transcriptional
+    responses
+  authors:
+  - Francesco Iorio
+  - Roberta Bosotti
+  - Emanuela Scacheri
+  - Vincenzo Belcastro
+  - Pratibha Mithbaokar
+  - Rosa Ferriero
+  - Loredana Murino
+  - Roberto Tagliaferri
+  - Nicola Brunetti-Pierri
+  - Antonella Isacchi
+  - Diego di Bernardo
+  publisher: Proceedings of the National Academy of Sciences
+  date: '2010-08-02'
+  link: https://doi.org/bhjj2m
+  orcid: 0000-0001-8134-9025
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/IJCNN.2010.5596585
+  title: Gene ontology fuzzy-enrichment analysis to investigate drug mode-of-action
+  authors:
+  - Francesco Iorio
+  - Loredana Murino
+  - Diego di Bernardo
+  - Giancarlo Raiconi
+  - Roberto Tagliaferri
+  publisher: The 2010 International Joint Conference on Neural Networks (IJCNN)
+  date: '2010-07-01'
+  link: https://doi.org/djr6mw
+  orcid: 0000-0001-8134-9025
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: eid:2-s2.0-77955822775
+  title: 'Lecture Notes in Computer Science (including subseries Lecture Notes in
+    Artificial Intelligence and Lecture Notes in Bioinformatics): Preface'
+  publisher: Lecture Notes in Computer Science (including subseries Lecture Notes
+    in Artificial Intelligence and Lecture Notes in Bioinformatics)
+  date: '2022-06-01'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-77955822775&partnerID=MN8TOARS
+  orcid: 0000-0001-8134-9025
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-642-14571-1_16
+  title: Multiple Clustering Solutions Analysis through Least-Squares Consensus Algorithms
+  authors:
+  - Loredana Murino
+  - Claudia Angelini
+  - Ida Bifulco
+  - Italia De Feis
+  - Giancarlo Raiconi
+  - Roberto Tagliaferri
+  publisher: Lecture Notes in Computer Science
+  date: '2010-01-01'
+  link: https://doi.org/bnbdwn
+  orcid: 0000-0001-8134-9025
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-642-02504-4_5
+  title: Building Maps of Drugs Mode-of-Action from Gene Expression Data
+  authors:
+  - Francesco Iorio
+  - Roberto Tagliaferri
+  - Diego di Bernardo
+  publisher: Lecture Notes in Computer Science
+  date: '2009-01-01'
+  link: https://doi.org/chpfq6
+  orcid: 0000-0001-8134-9025
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.artmed.2008.08.014
+  title: Computational intelligence and machine learning in bioinformatics
+  authors:
+  - Giorgio Valentini
+  - Roberto Tagliaferri
+  - Francesco Masulli
+  publisher: Artificial Intelligence in Medicine
+  date: '2009-02-01'
+  link: https://doi.org/d2jq4k
+  orcid: 0000-0001-8134-9025
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/IJCNN.2009.5178789
+  title: Global optimization, Meta Clustering and consensus clustering for class prediction
+  authors:
+  - Ida Bifulco
+  - Carmine Fedullo
+  - Francesco Napolitano
+  - Giancarlo Raiconi
+  - Roberto Tagliaferri
+  publisher: 2009 International Joint Conference on Neural Networks
+  date: '2009-06-01'
+  link: https://doi.org/dm2rrd
+  orcid: 0000-0001-8134-9025
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1089/cmb.2008.10TT
+  title: Identifying Network of Drug Mode of Action by Gene Expression Profiling
+  authors:
+  - Francesco Iorio
+  - Roberto Tagliaferri
+  - Diego di Bernardo
+  publisher: Journal of Computational Biology
+  date: '2009-02-01'
+  link: https://doi.org/czpb5c
+  orcid: 0000-0001-8134-9025
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3233/978-1-58603-984-4-223
+  title: Interactive Visualization Tools for Meta-Clustering
+  authors:
+  - ' Bifulco Ida'
+  - ' Iorio Francesco'
+  - ' Napolitano Francesco'
+  - ' Raiconi Giancarlo'
+  - ' Tagliaferri Roberto'
+  publisher: Frontiers in Artificial Intelligence and Applications
+  date: '2009-01-01'
+  link: https://doi.org/g76f8q
+  orcid: 0000-0001-8134-9025
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: eid:2-s2.0-70349319576
+  title: 'Lecture Notes in Computer Science (including subseries Lecture Notes in
+    Artificial Intelligence and Lecture Notes in Bioinformatics): Preface'
+  publisher: Lecture Notes in Computer Science (including subseries Lecture Notes
+    in Artificial Intelligence and Lecture Notes in Bioinformatics)
+  date: '2022-06-01'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-70349319576&partnerID=MN8TOARS
+  orcid: 0000-0001-8134-9025
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-642-02282-1_21
+  title: Metaclustering and Consensus Algorithms for Interactive Data Analysis and
+    Validation
+  authors:
+  - Ida Bifulco
+  - Carmine Fedullo
+  - Francesco Napolitano
+  - Giancarlo Raiconi
+  - Roberto Tagliaferri
+  publisher: Lecture Notes in Computer Science
+  date: '2009-01-01'
+  link: https://doi.org/cs4c66
+  orcid: 0000-0001-8134-9025
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pone.0006824
+  title: Transitions at CpG Dinucleotides, Geographic Clustering of TP53 Mutations
+    and Food Availability Patterns in Colorectal Cancer
+  authors:
+  - Fabio Verginelli
+  - Faraz Bishehsari
+  - Francesco Napolitano
+  - Mahboobeh Mahdavinia
+  - Alessandro Cama
+  - Reza Malekzadeh
+  - Gennaro Miele
+  - Giancarlo Raiconi
+  - Roberto Tagliaferri
+  - Renato Mariani-Costantini
+  publisher: PLoS ONE
+  date: '2009-08-31'
+  link: https://doi.org/dr56vm
+  orcid: 0000-0001-8134-9025
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.ijar.2007.03.013
+  title: Clustering and visualization approaches for human cell cycle gene expression
+    data analysis
+  authors:
+  - F. Napolitano
+  - G. Raiconi
+  - R. Tagliaferri
+  - A. Ciaramella
+  - A. Staiano
+  - G. Miele
+  publisher: International Journal of Approximate Reasoning
+  date: '2008-01-01'
+  link: https://doi.org/b3v5j3
+  orcid: 0000-0001-8134-9025
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-540-85984-0_130
+  title: High-Throughput Analysis of the Drug Mode of Action of PB28, MC18 and MC70,
+    Three Cyclohexylpiperazine Derivative New Molecules
+  authors:
+  - Vitoantonio Bevilacqua
+  - Paolo Pannarale
+  - Giuseppe Mastronardi
+  - Amalia Azzariti
+  - Stefania Tommasi
+  - Filippo Menolascina
+  - Francesco Iorio
+  - Diego Di Bernardo
+  - Angelo Paradiso
+  - Nicola A. Colabufo
+  - Francesco Berardi
+  - Roberto Perrone
+  - Roberto Tagliaferri
+  publisher: Lecture Notes in Computer Science
+  date: '2008-01-01'
+  link: https://doi.org/dbskhx
+  orcid: 0000-0001-8134-9025
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.neunet.2007.12.026
+  title: Interactive data analysis and clustering of genomic data
+  authors:
+  - A. Ciaramella
+  - S. Cocozza
+  - F. Iorio
+  - G. Miele
+  - F. Napolitano
+  - M. Pinelli
+  - G. Raiconi
+  - R. Tagliaferri
+  publisher: Neural Networks
+  date: '2008-03-01'
+  link: https://doi.org/cfxnxj
+  orcid: 0000-0001-8134-9025
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.ijar.2007.04.002
+  title: Preface
+  authors:
+  - "Vito Di Ges\xF9"
+  - Roberto Tagliaferri
+  publisher: International Journal of Approximate Reasoning
+  date: '2008-01-01'
+  link: https://doi.org/d32gvg
+  orcid: 0000-0001-8134-9025
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-540-85567-5_91
+  title: Robust Clustering by Aggregation and Intersection Methods
+  authors:
+  - Ida Bifulco
+  - Carmine Fedullo
+  - Francesco Napolitano
+  - Giancarlo Raiconi
+  - Roberto Tagliaferri
+  publisher: Lecture Notes in Computer Science
+  date: ''
+  link: https://doi.org/cpjw3p
+  orcid: 0000-0001-8134-9025
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-540-85567-5_90
+  title: Using Global Optimization to Explore Multiple Solutions of Clustering Problems
+  authors:
+  - Ida Bifulco
+  - Loredana Murino
+  - Francesco Napolitano
+  - Giancarlo Raiconi
+  - Roberto Tagliaferri
+  publisher: Lecture Notes in Computer Science
+  date: ''
+  link: https://doi.org/dr36h6
+  orcid: 0000-0001-8134-9025
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.4018/978-1-59904-528-3.ch015
+  title: Advanced Data Mining and Visualization Techniques with Probabilistic Principal
+    Surfaces
+  authors:
+  - Antonino Staiano
+  - Lara De Vinco
+  - Giuseppe Longo
+  - Roberto Tagliaferri
+  publisher: Mathematical Methods for Knowledge Discovery and Data Mining
+  date: ''
+  link: https://doi.org/c3n2qq
+  orcid: 0000-0001-8134-9025
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-540-74829-8_106
+  title: An Interactive Tool for Data Visualization and Clustering
+  authors:
+  - F. Iorio
+  - G. Miele
+  - F. Napolitano
+  - G. Raiconi
+  - R. Tagliaferri
+  publisher: Lecture Notes in Computer Science
+  date: ''
+  link: https://doi.org/d9r6f2
+  orcid: 0000-0001-8134-9025
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/IJCNN.2007.4371199
+  title: 'Clustering, Assessment and Validation: an application to gene expression
+    data'
+  authors:
+  - A. Ciaramella
+  - S. Cocozza
+  - F. Iorio
+  - G. Miele
+  - F. Napolitano
+  - M. Pinelli
+  - G. Raiconi
+  - R. Tagliaferri
+  publisher: 2007 International Joint Conference on Neural Networks
+  date: '2007-08-01'
+  link: https://doi.org/cqqg2b
+  orcid: 0000-0001-8134-9025
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/B978-044452855-1/50009-X
+  title: Information Geometry for Survival Analysis and Feature Selection by Neural
+    Networks
+  authors:
+  - Antonio Eleuteri
+  - Roberto Tagliaferri
+  - Leopoldo Milano
+  - Michele de Laurentiis
+  publisher: Outcome Prediction in Cancer
+  date: '2007-01-01'
+  link: https://doi.org/dgbpdp
+  orcid: 0000-0001-8134-9025
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1086/518020
+  title: Mining the SDSS Archive. I. Photometric Redshifts in the Nearby Universe
+  authors:
+  - "Raffaele D\u2019Abrusco"
+  - Antonino Staiano
+  - Giuseppe Longo
+  - Massimo Brescia
+  - Maurizio Paolillo
+  - Elisabetta De Filippis
+  - Roberto Tagliaferri
+  publisher: The Astrophysical Journal
+  date: '2007-07-10'
+  link: https://doi.org/d8vjph
+  orcid: 0000-0001-8134-9025
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-540-73400-0_70
+  title: PCA Based Feature Selection Applied to the Analysis of the International
+    Variation in Diet
+  authors:
+  - Faraz Bishehsari
+  - Mahboobeh Mahdavinia
+  - Reza Malekzadeh
+  - Renato Mariani-Costantini
+  - Gennaro Miele
+  - Francesco Napolitano
+  - Giancarlo Raiconi
+  - Roberto Tagliaferri
+  - Fabio Verginelli
+  publisher: Lecture Notes in Computer Science
+  date: ''
+  link: https://doi.org/d3n4nm
+  orcid: 0000-0001-8134-9025
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-540-73400-0_9
+  title: The Genetic Development of Uninorm-Based Neurons
+  authors:
+  - Angelo Ciaramella
+  - Witold Pedrycz
+  - Roberto Tagliaferri
+  publisher: Lecture Notes in Computer Science
+  date: ''
+  link: https://doi.org/bzkr22
+  orcid: 0000-0001-8134-9025
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/bioinformatics/btk026
+  title: A multi-step approach to time series analysis and gene expression clustering
+  authors:
+  - R. Amato
+  - A. Ciaramella
+  - N. Deniskina
+  - C. Del Mondo
+  - D. di Bernardo
+  - C. Donalek
+  - G. Longo
+  - G. Mangano
+  - G. Miele
+  - G. Raiconi
+  - A. Staiano
+  - R. Tagliaferri
+  publisher: Bioinformatics
+  date: '2006-01-05'
+  link: https://doi.org/dg2vr5
+  orcid: 0000-0001-8134-9025
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.ijar.2005.06.016
+  title: Fuzzy relational neural network
+  authors:
+  - A. Ciaramella
+  - R. Tagliaferri
+  - W. Pedrycz
+  - A. Di Nola
+  publisher: International Journal of Approximate Reasoning
+  date: '2006-02-01'
+  link: https://doi.org/bc4x8f
+  orcid: 0000-0001-8134-9025
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s00500-005-0515-7
+  title: ICA based identification of dynamical systems generating synthetic and real
+    world time series
+  authors:
+  - Angelo Ciaramella
+  - Enza De Lauro
+  - Salvatore De Martino
+  - Mariarosaria Falanga
+  - Roberto Tagliaferri
+  publisher: Soft Computing
+  date: '2005-07-19'
+  link: https://doi.org/bjzm6z
+  orcid: 0000-0001-8134-9025
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.neucom.2005.06.014
+  title: Improving RBF networks performance in regression tasks by means of a supervised
+    fuzzy clustering
+  authors:
+  - Antonino Staiano
+  - Roberto Tagliaferri
+  - Witold Pedrycz
+  publisher: Neurocomputing
+  date: '2006-08-01'
+  link: https://doi.org/c5dbm5
+  orcid: 0000-0001-8134-9025
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: eid:2-s2.0-33745778895
+  title: 'Lecture Notes in Computer Science (including subseries Lecture Notes in
+    Artificial Intelligence and Lecture Notes in Bioinformatics): Preface'
+  publisher: Lecture Notes in Computer Science (including subseries Lecture Notes
+    in Artificial Intelligence and Lecture Notes in Bioinformatics)
+  date: '2022-06-01'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-33745778895&partnerID=MN8TOARS
+  orcid: 0000-0001-8134-9025
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/11676935_30
+  title: NEC for Gene Expression Analysis
+  authors:
+  - R. Amato
+  - A. Ciaramella
+  - N. Deniskina
+  - C. Del Mondo
+  - D. di Bernardo
+  - C. Donalek
+  - G. Longo
+  - G. Mangano
+  - G. Miele
+  - G. Raiconi
+  - A. Staiano
+  - R. Tagliaferri
+  publisher: Lecture Notes in Computer Science
+  date: '2006-01-01'
+  link: https://doi.org/bt929k
+  orcid: 0000-0001-8134-9025
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/11731177_8
+  title: 'NEC: A Hierarchical Agglomerative Clustering Based on Fisher and Negentropy
+    Information'
+  authors:
+  - Angelo Ciaramella
+  - Giuseppe Longo
+  - Antonino Staiano
+  - Roberto Tagliaferri
+  publisher: Lecture Notes in Computer Science
+  date: '2006-01-01'
+  link: https://doi.org/bgzx8w
+  orcid: 0000-0001-8134-9025
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/TDSC.2006.53
+  title: Neural Network Techniques for Proactive Password Checking
+  authors:
+  - Angelo Ciaramella
+  - Paolo D'Arco
+  - Alfredo De Santis
+  - Clemente Galdi
+  - Roberto Tagliaferri
+  publisher: IEEE Transactions on Dependable and Secure Computing
+  date: '2006-10-01'
+  link: https://doi.org/dv9xd6
+  orcid: 0000-0001-8134-9025
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/11676935_23
+  title: OR/AND Neurons for Fuzzy Set Connectives Using Ordinal Sums and Genetic Algorithms
+  authors:
+  - Angelo Ciaramella
+  - Witold Pedrycz
+  - Roberto Tagliaferri
+  publisher: Lecture Notes in Computer Science
+  date: '2006-01-01'
+  link: https://doi.org/fw5qxv
+  orcid: 0000-0001-8134-9025
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1088/0264-9381/22/18/S36
+  title: A hierarchical Bayesian framework for nonlinearities identification in gravitational
+    wave detector outputs
+  authors:
+  - F Acernese
+  - F Barone
+  - R De Rosa
+  - A Eleuteri
+  - L Milano
+  - R Tagliaferri
+  publisher: Classical and Quantum Gravity
+  date: '2005-09-06'
+  link: https://doi.org/fjnj6j
+  orcid: 0000-0001-8134-9025
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.neunet.2005.01.008
+  title: A novel information geometric approach to variable selection in MLP networks
+  authors:
+  - A. Eleuteri
+  - R. Tagliaferri
+  - L. Milano
+  publisher: Neural Networks
+  date: '2005-12-01'
+  link: https://doi.org/bfvxz3
+  orcid: 0000-0001-8134-9025
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/IJCNN.2005.1556032
+  title: BSS Toolbox for delayed and convolved mixtures
+  authors:
+  - A. Ciaramella
+  - R. Tagliaferri
+  - F. Iorio
+  publisher: Proceedings. 2005 IEEE International Joint Conference on Neural Networks,
+    2005.
+  date: ''
+  link: https://doi.org/d76n9b
+  orcid: 0000-0001-8134-9025
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1103/PhysRevE.72.046712
+  title: Complexity of time series associated to dynamical systems inferred from independent
+    component analysis
+  authors:
+  - E. De Lauro
+  - S. De Martino
+  - M. Falanga
+  - A. Ciaramella
+  - R. Tagliaferri
+  publisher: Physical Review E
+  date: '2005-10-24'
+  link: https://doi.org/d6n2jc
+  orcid: 0000-0001-8134-9025
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/IJCNN.2005.1555820
+  title: Data visualization methodologies for data mining systems in bioinformatics
+  authors:
+  - A. Staiano
+  - A. Ciaramella
+  - G. Raiconi
+  - R. Tagliaferri
+  - R. Amato
+  - G. Longo
+  - G. Miele
+  - C. Donalek
+  publisher: Proceedings. 2005 IEEE International Joint Conference on Neural Networks,
+    2005.
+  date: ''
+  link: https://doi.org/c568dm
+  orcid: 0000-0001-8134-9025
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: eid:2-s2.0-33744825481
+  title: Fuzzy relational neural network for data analysis
+  publisher: Lecture Notes in Computer Science (including subseries Lecture Notes
+    in Artificial Intelligence and Lecture Notes in Bioinformatics)
+  date: '2022-06-01'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-33744825481&partnerID=MN8TOARS
+  orcid: 0000-0001-8134-9025
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: eid:2-s2.0-33744789229
+  title: Linear regression model-guided clustering for training RBF networks for regression
+    problems
+  publisher: Lecture Notes in Computer Science (including subseries Lecture Notes
+    in Artificial Intelligence and Lecture Notes in Bioinformatics)
+  date: '2022-06-01'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-33744789229&partnerID=MN8TOARS
+  orcid: 0000-0001-8134-9025
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1166/jctn.2005.006
+  title: 'Novel Techniques for Microarray Data Analysis: Probabilistic Principal Surfaces
+    and Competitive Evolution on Data'
+  authors:
+  - Roberto Amato
+  - Angelo Ciaramella
+  - Carmine Del Mondo
+  - Lara De Vinco
+  - Ciro Donalek
+  - Giuseppe Longo
+  - Gennaro Miele
+  - Giancarlo Raiconi
+  - Antonino Staiano
+  - Roberto Tagliaferri
+  publisher: Journal of Computational and Theoretical Nanoscience
+  date: '2005-12-01'
+  link: https://doi.org/fh76n6
+  orcid: 0000-0001-8134-9025
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.cageo.2004.11.016
+  title: 'Textural identification of carbonate rocks by image processing and neural
+    network: Methodology proposal and examples'
+  authors:
+  - Roberto Marmo
+  - Sabrina Amodio
+  - Roberto Tagliaferri
+  - Vittoria Ferreri
+  - Giuseppe Longo
+  publisher: Computers &amp; Geosciences
+  date: '2005-06-01'
+  link: https://doi.org/dqfn8f
+  orcid: 0000-0001-8134-9025
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.fss.2004.07.003
+  title: The genetic development of ordinal sums
+  authors:
+  - A. Ciaramella
+  - R. Tagliaferri
+  - W. Pedrycz
+  publisher: Fuzzy Sets and Systems
+  date: '2005-04-01'
+  link: https://doi.org/ch85k6
+  orcid: 0000-0001-8134-9025
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: eid:2-s2.0-28444485667
+  title: Visualization, clustering and classification of multidimensional astronomical
+    data
+  publisher: Proceedings - International Workshop on Computer Architecture for Machine
+    Perception, CAMP
+  date: '2022-06-01'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-28444485667&partnerID=MN8TOARS
+  orcid: 0000-0001-8134-9025
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/IJCNN.2004.1380194
+  title: 'A hierarchical Bayesian learning scheme for autoregressive neural networks:
+    application to the CATS benchmark'
+  authors:
+  - F. Acernese
+  - A. Eleuteri
+  - L. Milano
+  - R. Tagliaferri
+  publisher: 2004 IEEE International Joint Conference on Neural Networks (IEEE Cat.
+    No.04CH37541)
+  date: ''
+  link: https://doi.org/dgps4k
+  orcid: 0000-0001-8134-9025
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1051/0004-6361:20035771
+  title: A multifrequency analysis of radio variability of blazars
+  authors:
+  - A. Ciaramella
+  - C. Bongardo
+  - H. D. Aller
+  - M. F. Aller
+  - G. De Zotti
+  - "A. L\xE4hteenmaki"
+  - G. Longo
+  - L. Milano
+  - R. Tagliaferri
+  - "H. Ter\xE4sranta"
+  - M. Tornikoski
+  - S. Urpo
+  publisher: Astronomy &amp; Astrophysics
+  date: '2004-05-01'
+  link: https://doi.org/d2j2q3
+  orcid: 0000-0001-8134-9025
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: eid:2-s2.0-10944241570
+  title: An information geometric approach to survival analysis and feature selection
+    by neural networks
+  publisher: IEEE International Conference on Neural Networks - Conference Proceedings
+  date: '2022-06-01'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-10944241570&partnerID=MN8TOARS
+  orcid: 0000-0001-8134-9025
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.5194/npg-11-453-2004
+  title: Characterization of Strombolian events by using independent component analysis
+  authors:
+  - A. Ciaramella
+  - E. De Lauro
+  - S. De Martino
+  - B. Di Lieto
+  - M. Falanga
+  - R. Tagliaferri
+  publisher: Nonlinear Processes in Geophysics
+  date: '2004-10-21'
+  link: https://doi.org/bjkhfz
+  orcid: 0000-0001-8134-9025
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: eid:2-s2.0-10844252246
+  title: Committee of spherical probabilistic principal surfaces
+  publisher: IEEE International Conference on Neural Networks - Conference Proceedings
+  date: '2022-06-01'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-10844252246&partnerID=MN8TOARS
+  orcid: 0000-0001-8134-9025
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: eid:2-s2.0-10944247046
+  title: ICA for modelling and generating organ pipes self-sustained tones
+  publisher: IEEE International Conference on Neural Networks - Conference Proceedings
+  date: '2022-06-01'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-10944247046&partnerID=MN8TOARS
+  orcid: 0000-0001-8134-9025
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/nafips.2004.1337374
+  title: Inference systems by using ordinal sums and genetic algorithms
+  authors:
+  - A. Ciaramella
+  - R. Tagliaferri
+  - W. Pedrycz
+  publisher: IEEE Annual Meeting of the Fuzzy Information, 2004. Processing NAFIPS
+    '04.
+  date: '2004-01-01'
+  link: https://doi.org/fswb4c
+  orcid: 0000-0001-8134-9025
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1089/thy.2004.14.1065
+  title: 'Neural Network Analysis for Evaluating Cancer Risk in Thyroid Nodules with
+    an Indeterminate Diagnosis at Aspiration Cytology: Identification of a Low-Risk
+    Subgroup'
+  authors:
+  - Antonio M. Ippolito
+  - Michelino De Laurentiis
+  - Giacomo L. La Rosa
+  - Antonio Eleuteri
+  - Roberto Tagliaferri
+  - Sabino De Placido
+  - Riccardo Vigneri
+  - Antonino Belfiore
+  publisher: Thyroid
+  date: '2004-12-01'
+  link: https://doi.org/b3wn4c
+  orcid: 0000-0001-8134-9025
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/FUZZY.2004.1375472
+  title: Ordinal sums by using genetic algorithms
+  authors:
+  - A. Ciaramella
+  - R. Tagliaferri
+  - W. Pedrycz
+  publisher: 2004 IEEE International Conference on Fuzzy Systems (IEEE Cat. No.04CH37542)
+  date: ''
+  link: https://doi.org/dkfpqs
+  orcid: 0000-0001-8134-9025
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.jvolgeores.2004.05.005
+  title: Polarisation analysis of the independent components of low frequency events
+    at Stromboli volcano (Eolian Islands, Italy)
+  authors:
+  - F. Acernese
+  - A. Ciaramella
+  - S. De Martino
+  - M. Falanga
+  - C. Godano
+  - R. Tagliaferri
+  publisher: Journal of Volcanology and Geothermal Research
+  date: '2004-09-01'
+  link: https://doi.org/d67v9z
+  orcid: 0000-0001-8134-9025
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ICDM.2004.10088
+  title: Probabilistic Principal Surfaces for Yeast Gene Microarray Data Mining
+  authors:
+  - A. Staiano
+  - L. De Vinco
+  - A. Ciaramella
+  - G. Raiconi
+  - R. Tagliaferri
+  - R. Amato
+  - G. Longo
+  - C. Donalek
+  - G. Miele
+  - D. Di Bernardo
+  publisher: Fourth IEEE International Conference on Data Mining (ICDM'04)
+  date: ''
+  link: https://doi.org/bxb8pg
+  orcid: 0000-0001-8134-9025
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: eid:2-s2.0-0141460500
+  title: A hierarchical Bayesian learning scheme for autoregressive neural networks
+  publisher: Proceedings of the International Joint Conference on Neural Networks
+  date: '2022-06-01'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-0141460500&partnerID=MN8TOARS
+  orcid: 0000-0001-8134-9025
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/S0893-6080(03)00098-4
+  title: A novel neural network-based survival analysis model
+  authors:
+  - Antonio Eleuteri
+  - Roberto Tagliaferri
+  - Leopoldo Milano
+  - Sabino De Placido
+  - Michele De Laurentiis
+  publisher: Neural Networks
+  date: '2003-06-01'
+  link: https://doi.org/bsdmjf
+  orcid: 0000-0001-8134-9025
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: eid:2-s2.0-0141461503
+  title: Amplitude and Permutation Indeterminacies in Frequency Domain Convolved ICA
+  publisher: Proceedings of the International Joint Conference on Neural Networks
+  date: '2022-06-01'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-0141461503&partnerID=MN8TOARS
+  orcid: 0000-0001-8134-9025
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-540-45216-4_32
+  title: "Divergence Projections for Variable Selection in Multi\u2013layer Perceptron\
+    \ Networks"
+  authors:
+  - Antonio Eleuteri
+  - Roberto Tagliaferri
+  - Leopoldo Milano
+  publisher: Lecture Notes in Computer Science
+  date: '2003-01-01'
+  link: https://doi.org/bgcm8k
+  orcid: 0000-0001-8134-9025
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/S0893-6080(03)00012-1
+  title: 'Introduction: Neural networks for analysis of complex scientific data: astronomy
+    and geosciences'
+  authors:
+  - R. Tagliaferri
+  - Giuseppe Longo
+  - Bruno D'Argenio
+  - Alberto Incoronato
+  publisher: Neural Networks
+  date: '2003-04-01'
+  link: https://doi.org/c68h39
+  orcid: 0000-0001-8134-9025
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/TNN.2002.806649
+  title: Neural networks for blind-source separation of Stromboli explosion quakes
+  authors:
+  - F. Acernese
+  - A. Ciaramella
+  - S. De Martino
+  - R. De Rosa
+  - M. Falanga
+  - R. Tagliaferri
+  publisher: IEEE Transactions on Neural Networks
+  date: '2003-01-01'
+  link: https://doi.org/dnh5vb
+  orcid: 0000-0001-8134-9025
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-540-45216-4_26
+  title: Neural Networks for Photometric Redshifts Evaluation
+  authors:
+  - Roberto Tagliaferri
+  - Giuseppe Longo
+  - Stefano Andreon
+  - Salvatore Capozziello
+  - Ciro Donalek
+  - Gerardo Giordano
+  publisher: Lecture Notes in Computer Science
+  date: '2003-01-01'
+  link: https://doi.org/bk82mn
+  orcid: 0000-0001-8134-9025
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/S0893-6080(03)00028-5
+  title: Neural neZtworks in astronomy
+  authors:
+  - Roberto Tagliaferri
+  - Giuseppe Longo
+  - Leopoldo Milano
+  - Fausto Acernese
+  - Fabrizio Barone
+  - Angelo Ciaramella
+  - Rosario De Rosa
+  - Ciro Donalek
+  - Antonio Eleuteri
+  - Giancarlo Raiconi
+  - Salvatore Sessa
+  - Antonino Staiano
+  - Alfredo Volpicelli
+  publisher: Neural Networks
+  date: '2003-04-01'
+  link: https://doi.org/fk472z
+  orcid: 0000-0001-8134-9025
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: eid:2-s2.0-84947277448
+  title: Preface
+  publisher: Lecture Notes in Computer Science (including subseries Lecture Notes
+    in Artificial Intelligence and Lecture Notes in Bioinformatics)
+  date: '2022-06-01'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-84947277448&partnerID=MN8TOARS
+  orcid: 0000-0001-8134-9025
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-540-45216-4_21
+  title: Soft Computing Techniques for Classification of Bronze Age Axes
+  authors:
+  - Lara Giordano
+  - Claude Albore Livadie
+  - Giovanni Paternoster
+  - Raffaele Rinzivillo
+  - Roberto Tagliaferri
+  publisher: Lecture Notes in Computer Science
+  date: '2003-01-01'
+  link: https://doi.org/b6r2g5
+  orcid: 0000-0001-8134-9025
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: eid:2-s2.0-0141815643
+  title: Survival Analysis and Neural Networks
+  publisher: Proceedings of the International Joint Conference on Neural Networks
+  date: '2022-06-01'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-0141815643&partnerID=MN8TOARS
+  orcid: 0000-0001-8134-9025
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1088/0264-9381/19/12/312
+  title: 'A neural network-based approach to noise identification of interferometric
+    GW antennas: the case of the 40 m Caltech laser interferometer'
+  authors:
+  - F Acernese
+  - F Barone
+  - M de Rosa
+  - R De Rosa
+  - A Eleuteri
+  - L Milano
+  - R Tagliaferri
+  publisher: Classical and Quantum Gravity
+  date: '2002-05-31'
+  link: https://doi.org/bdqrfr
+  orcid: 0000-0001-8134-9025
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/3-540-45808-5_22
+  title: 'Bayesian Learning Techniques: Application to Neural Networks with Constraints
+    on Weight Space'
+  authors:
+  - A. Eleuteri
+  - R. Tagliaferri
+  - L. Milano
+  - F. Acernese
+  - M. De Laurentiis
+  publisher: Lecture Notes in Computer Science
+  date: '2002-01-01'
+  link: https://doi.org/czgtk2
+  orcid: 0000-0001-8134-9025
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1117/12.461126
+  title: Bayesian Model Selection for Spatial Clustering in 3D Surveys
+  authors:
+  - Fionn D. Murtagh
+  - C. Donalek
+  - Giuseppe Longo
+  - Roberto Tagliaferri
+  publisher: SPIE Proceedings
+  date: '2002-12-01'
+  link: https://doi.org/fn57wq
+  orcid: 0000-0001-8134-9025
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1117/12.461147
+  title: Data mining of large astronomical databases with neural tools
+  authors:
+  - Giuseppe Longo
+  - Ciro Donalek
+  - Giancarlo Raiconi
+  - A. Staiano
+  - Roberto Tagliaferri
+  - Salvatore Sessa
+  - Fabio Pasian
+  - Riccardo Smareglia
+  - Alfredo Volpicelli
+  publisher: SPIE Proceedings
+  date: '2002-12-01'
+  link: https://doi.org/fppj2r
+  orcid: 0000-0001-8134-9025
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: eid:2-s2.0-0036973771
+  title: Fuzzy similarities in stars/galaxies classification
+  publisher: Proceedings of the IEEE International Conference on Systems, Man and
+    Cybernetics
+  date: '2022-06-01'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-0036973771&partnerID=MN8TOARS
+  orcid: 0000-0001-8134-9025
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: eid:2-s2.0-84865757149
+  title: Preface
+  publisher: Lecture Notes in Computer Science (including subseries Lecture Notes
+    in Artificial Intelligence and Lecture Notes in Bioinformatics)
+  date: '2022-06-01'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-84865757149&partnerID=MN8TOARS
+  orcid: 0000-0001-8134-9025
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/TNS.2002.1003763
+  title: Real-time procedure for noise uncoupling in laser interferometry
+  authors:
+  - F. Barone
+  - R. De Rosa
+  - A. Eleuteri
+  - L. Milano
+  - K. Qipiani
+  - R. Tagliaferri
+  publisher: IEEE Transactions on Nuclear Science
+  date: '2002-04-01'
+  link: https://doi.org/fqb85b
+  orcid: 0000-0001-8134-9025
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: eid:2-s2.0-0034856680
+  title: A neural network based identification system for VIRGO seismic noise
+  publisher: Proceedings of the International Joint Conference on Neural Networks
+  date: '2022-06-01'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-0034856680&partnerID=MN8TOARS
+  orcid: 0000-0001-8134-9025
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: eid:2-s2.0-0035792054
+  title: A supervised fuzzy clustering for radial basis function neural networks training
+  publisher: Annual Conference of the North American Fuzzy Information Processing
+    Society - NAFIPS
+  date: '2022-06-01'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-0035792054&partnerID=MN8TOARS
+  orcid: 0000-0001-8134-9025
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1117/12.447191
+  title: '&lt;title&gt;Advanced data mining tools for exploring large astronomical
+    databases&lt;/title&gt;'
+  authors:
+  - Giuseppe Longo
+  - Roberto Tagliaferri
+  - Salvatore Sessa
+  - Patricio F. Ortiz
+  - Massimo Capaccioli
+  - A. Ciaramella
+  - Ciro Donalek
+  - Giancarlo Raiconi
+  - A. Staiano
+  - Alfredo Volpicelli
+  publisher: SPIE Proceedings
+  date: '2001-11-01'
+  link: https://doi.org/cs3w4t
+  orcid: 0000-0001-8134-9025
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1117/12.447190
+  title: '&lt;title&gt;Extraction of catalogs from astronomical images&lt;/title&gt;'
+  authors:
+  - Roberto Tagliaferri
+  - Giuseppe Longo
+  - Gerardo Iovane
+  publisher: SPIE Proceedings
+  date: '2001-11-01'
+  link: https://doi.org/bvgdmv
+  orcid: 0000-0001-8134-9025
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: eid:2-s2.0-0035746781
+  title: 'Fuzzy relations neural network: Some preliminary results'
+  publisher: IEEE International Conference on Fuzzy Systems
+  date: '2022-06-01'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-0035746781&partnerID=MN8TOARS
+  orcid: 0000-0001-8134-9025
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: eid:2-s2.0-0034875077
+  title: Neural network-based approach to noise identification of laser interferometric
+    GW antennas
+  publisher: Proceedings of the International Joint Conference on Neural Networks
+  date: '2022-06-01'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-0034875077&partnerID=MN8TOARS
+  orcid: 0000-0001-8134-9025
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/S0098-3004(00)00166-7
+  title: Soft computing methodologies for spectral analysis in cyclostratigraphy
+  authors:
+  - R Tagliaferri
+  - N Pelosi
+  - A Ciaramella
+  - G Longo
+  - M Milano
+  - F Barone
+  publisher: Computers &amp; Geosciences
+  date: '2001-06-01'
+  link: https://doi.org/cqzfxn
+  orcid: 0000-0001-8134-9025
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: eid:2-s2.0-0034868978
+  title: Sulfur dioxide ground level concentrations forecasting by means of neural
+    networks
+  publisher: Proceedings of the International Joint Conference on Neural Networks
+  date: '2022-06-01'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-0034868978&partnerID=MN8TOARS
+  orcid: 0000-0001-8134-9025
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1145/335603.335943
+  title: An evolutionary hybrid approach to the design of a decision support system
+  authors:
+  - V. Loia
+  - A. Staiano
+  - R. Tagliaferri
+  - S. Sessa
+  publisher: Proceedings of the 2000 ACM symposium on Applied computing - Volume 1
+  date: '2000-03-19'
+  link: https://doi.org/bw2s26
+  orcid: 0000-0001-8134-9025
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: eid:2-s2.0-0033684678
+  title: Hierarchical Neural Network-based approach to VIRGO noise identification
+  publisher: Proceedings of the International Joint Conference on Neural Networks
+  date: '2022-06-01'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-0033684678&partnerID=MN8TOARS
+  orcid: 0000-0001-8134-9025
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/(SICI)1098-111X(200007)15:7<575::AID-INT1>3.0.CO;2-A
+  title: Merging fuzzy logic, neural networks, and genetic computation in the design
+    of a decision-support system
+  authors:
+  - V. Loia
+  - S. Sessa
+  - A. Staiano
+  - R. Tagliaferri
+  publisher: International Journal of Intelligent Systems
+  date: '2000-07-01'
+  link: https://doi.org/dhvnw6
+  orcid: 0000-0001-8134-9025
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s005210070020
+  title: Neural Networks for Sulphur Dioxide Ground Level Concentrations Forecasting
+  authors:
+  - M. Andretta
+  - A. Eleuteri
+  - F. Fortezza
+  - D. Manco
+  - L. Mingozzi
+  - R. Serra
+  - R. Tagliaferri
+  publisher: Neural Computing &amp; Applications
+  date: '2000-07-07'
+  link: https://doi.org/fbhg7g
+  orcid: 0000-0001-8134-9025
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1046/j.1365-8711.2000.03700.x
+  title: Wide field imaging - I. Applications of neural networks to object detection
+    and star/galaxy classification
+  authors:
+  - S. Andreon
+  - G. Gargiulo
+  - G. Longo
+  - R. Tagliaferri
+  - N. Capuano
+  publisher: Monthly Notices of the Royal Astronomical Society
+  date: '2002-04-04'
+  link: https://doi.org/fqdjz7
+  orcid: 0000-0001-8134-9025
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/72.737509
+  title: 'Automated labeling for unsupervised neural networks: a hierarchical approach'
+  authors:
+  - R. Tagliaferri
+  - N. Capuano
+  - G. Gargiulo
+  publisher: IEEE Transactions on Neural Networks
+  date: '1999-01-01'
+  link: https://doi.org/fbxsj7
+  orcid: 0000-0001-8134-9025
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: eid:2-s2.0-0033346101
+  title: Hybrid neural networks for frequency estimation of unevenly sampled data
+  publisher: Proceedings of the International Joint Conference on Neural Networks
+  date: '2022-06-01'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-0033346101&partnerID=MN8TOARS
+  orcid: 0000-0001-8134-9025
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: eid:2-s2.0-0033325009
+  title: Neural nets and star/galaxy separation in wide field astronomical images
+  publisher: Proceedings of the International Joint Conference on Neural Networks
+  date: '2022-06-01'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-0033325009&partnerID=MN8TOARS
+  orcid: 0000-0001-8134-9025
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1142/S0129183199000917
+  title: SPEAKER NORMALIZATION IMPROVEMENT BY NEURAL NETWORK PARAMETER OPTIMIZATION
+  authors:
+  - MICHELE AUTIERO
+  - DIEGO GIULIANI
+  - SALVATORE RAMPONE
+  - ROBERTO TAGLIAFERRI
+  publisher: International Journal of Modern Physics C
+  date: '1999-09-01'
+  link: https://doi.org/dfg554
+  orcid: 0000-0001-8134-9025
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1051/aas:1999254
+  title: "Spectral analysis of stellar light curves by means of neural \nnetworks"
+  authors:
+  - R. Tagliaferri
+  - A. Ciaramella
+  - L. Milano
+  - F. Barone
+  - G. Longo
+  publisher: Astronomy and Astrophysics Supplement Series
+  date: '1999-06-01'
+  link: https://doi.org/fm55pv
+  orcid: 0000-0001-8134-9025
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1115/ipc1998-2090
+  title: Field Full Scale Tests on Longitudinal Pipeline-Soil Interaction
+  authors:
+  - Andrea Cappelletto
+  - Roberto Tagliaferri
+  - Gianmario Giurlani
+  - Giuseppe Andrei
+  - Giuseppe Furlani
+  - Giuseppe Scarpelli
+  publisher: 'Volume 2: Design and Construction; Pipeline Automation and Measurement;
+    Environmental Issues; Rotating Equipment Technology'
+  date: '1998-06-07'
+  link: https://doi.org/hbphfd
+  orcid: 0000-0001-8134-9025
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/72.712157
+  title: Fuzzy neural networks for classification and detection of anomalies
+  authors:
+  - M. Meneganti
+  - F.S. Saviello
+  - R. Tagliaferri
+  publisher: IEEE Transactions on Neural Networks
+  date: '1998-01-01'
+  link: https://doi.org/fkcx4h
+  orcid: 0000-0001-8134-9025
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ICNN.1997.614392
+  title: Neural networks for periodicity analysis of unevenly spaced data
+  authors:
+  - M. Rasile
+  - R. Tagliaferri
+  - L. Milano
+  - G. Longo
+  publisher: Proceedings of International Conference on Neural Networks (ICNN'97)
+  date: ''
+  link: https://doi.org/bdrhft
+  orcid: 0000-0001-8134-9025
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/S0893-6080(97)00093-2
+  title: Response to the letter by Li and Cao
+  authors:
+  - Maria Marinaro
+  - Salvatore Rampone
+  - Roberto Tagliaferri
+  publisher: Neural Networks
+  date: '1997-12-01'
+  link: https://doi.org/c7bpkr
+  orcid: 0000-0001-8134-9025
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/0012-821x(96)84608-5
+  title: Neural net aided detection of astronomical periodicities in geologic records
+  authors:
+  - M. Brescia
+  - B. D'Argenio
+  - V. Ferreri
+  - G. Longo
+  - N. Pelosi
+  - S. Rampone
+  - R. Tagliaferri
+  publisher: Earth and Planetary Science Letters
+  date: '1996-03-01'
+  link: https://doi.org/bp7kjk
+  orcid: 0000-0001-8134-9025
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/0925-2312(95)00123-9
+  title: Outline of a linear neural network
+  authors:
+  - Eduardo R. Caianiello
+  - Maria Marinaro
+  - Salvatore Rampone
+  - Roberto Tagliaferri
+  publisher: Neurocomputing
+  date: '1996-07-01'
+  link: https://doi.org/bd3bzz
+  orcid: 0000-0001-8134-9025
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/0893-6080(94)90068-X
+  title: A neural network for error correcting decoding of binary linear codes
+  authors:
+  - Anna Esposito
+  - Salvatore Rampone
+  - Roberto Tagliaferri
+  publisher: Neural Networks
+  date: '1994-01-01'
+  link: https://doi.org/b37w7r
+  orcid: 0000-0001-8134-9025
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: eid:2-s2.0-0027818433
+  title: State dependent learning process in neural nets,APPRENDIMENTO STATO-DIPENDENTE
+    IN RETI NEURALI
+  publisher: Rivista di Neurobiologia
+  date: '2022-06-01'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-0027818433&partnerID=MN8TOARS
+  orcid: 0000-0001-8134-9025
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/NNSP.1992.253693
+  title: A mathematical model for speech processing
+  authors:
+  - A. Esposito
+  - S. Rampone
+  - C. Stanzione
+  - R. Tagliaferri
+  publisher: Neural Networks for Signal Processing II Proceedings of the 1992 IEEE
+    Workshop
+  date: ''
+  link: https://doi.org/fr4qtr
+  orcid: 0000-0001-8134-9025
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/0893-6080(92)90005-4
+  title: Neural associative memories with minimum connectivity
+  authors:
+  - Eduardo R. Caianiello
+  - Antonella De Benedictis
+  - Alfredo Petrosino
+  - Roberto Tagliaferri
+  publisher: Neural Networks
+  date: '1992-01-01'
+  link: https://doi.org/cpwzvd
+  orcid: 0000-0001-8134-9025
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/0893-6080(90)90077-X
+  title: Classes of efficiently computable linear neural nets
+  authors:
+  - P. Occhinegro
+  - R. Tagliaferri
+  publisher: Neural Networks
+  date: '1990-01-01'
+  link: https://doi.org/b37x67
+  orcid: 0000-0001-8134-9025
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-031-89704-7_9
+  title: "FP-Elegans M1: Feature Pyramid Reservoir Connectome Transformers and\_Multi-backbone\
+    \ Feature Extractors for\_MEDMNIST2D-V2"
+  authors:
+  - Francesco Bardozzo
+  - Pierpaolo Fiore
+  - "Pietro Li\xF2"
+  - Roberto Tagliaferri
+  publisher: Lecture Notes in Computer Science
+  date: '2025-01-01'
+  link: https://doi.org/hbphff
+  orcid: 0000-0003-0199-6623
+  francesco-bardozzo: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1117/12.3065442
+  title: Real-time complex amplitude retrieval in Fourier ptychographic microscopy
+    using dual-channel input GAN
+  authors:
+  - Marika Valentino
+  - Pierpaolo Fiore
+  - Francesco Bardozzo
+  - Daniele Pirone
+  - Valentina Brancato
+  - Giovanni Smaldone
+  - Marcello Gambacorta
+  - Marco Salvatore
+  - Lisa Miccio
+  - Pasquale Memmolo
+  - Roberto Tagliaferri
+  - Vittorio Bianco
+  - Pietro Ferraro
+  publisher: Optical Methods for Inspection, Characterization, and Imaging of Biomaterials
+    VII
+  date: '2025-08-01'
+  link: https://doi.org/hbphfg
+  orcid: 0000-0003-0199-6623
+  francesco-bardozzo: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-031-90714-2_23
+  title: Transfer Learning and AutoML as a Support for the Pneumonia Diagnosis Using
+    Chest X-ray Scan
+  authors:
+  - Antonio Agliata
+  - Francesco Bardozzo
+  - Salvatore Bottiglieri
+  - Giovanni Marco Di Vincenzo
+  - Mariacarmen Sorrentino
+  - Roberto Tagliaferri
+  publisher: Lecture Notes in Computer Science
+  date: '2025-01-01'
+  link: https://doi.org/hbphfh
+  orcid: 0000-0003-0199-6623
+  francesco-bardozzo: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.compbiomed.2024.108861
+  title: Enhanced tissue slide imaging in the complex domain via cross-explainable
+    GAN for Fourier ptychographic microscopy
+  authors:
+  - Francesco Bardozzo
+  - Pierpaolo Fiore
+  - Marika Valentino
+  - Vittorio Bianco
+  - Pasquale Memmolo
+  - Lisa Miccio
+  - Valentina Brancato
+  - Giovanni Smaldone
+  - Marcello Gambacorta
+  - Marco Salvatore
+  - Pietro Ferraro
+  - Roberto Tagliaferri
+  publisher: Computers in Biology and Medicine
+  date: '2024-09-01'
+  link: https://doi.org/hbphfj
+  orcid: 0000-0002-7543-2073
+  francesco-bardozzo: true
+  plugin: orcid.py
+  file: orcid.yaml
+  pierpaolo-fiore: true
+- id: handle:11386/4890772
+  title: An automated pipeline integrating AlphaFold 2 and MODELLER for protein structure
+    prediction
+  authors: []
+  publisher: ''
+  date: '2024-12-17'
+  link: https://www.iris.unisa.it/handle/11386/4890772
+  orcid: 0000-0003-0199-6623
+  francesco-bardozzo: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1364/dh.2024.w4a.29
+  title: Artificial Intelligence for Label-free cells classification in holographic
+    microscopy
+  authors:
+  - Pierpaolo Fiore
+  - Daniele Pirone
+  - Francesco Bardozzo
+  - Lu Xin
+  - Wen Xiao
+  - Xiaoping Li
+  - Gioele Ciaparrone
+  - Vittorio Bianco
+  - Lisa Miccio
+  - Feng Pan
+  - Pasquale Memmolo
+  - Pietro Ferraro
+  - Roberto Tagliaferri
+  publisher: Optica Digital Holography and Three-Dimensional Imaging 2024 (DH)
+  date: '2024-01-01'
+  link: https://doi.org/hbphfk
+  orcid: 0000-0002-7543-2073
+  francesco-bardozzo: true
+  plugin: orcid.py
+  file: orcid.yaml
+  pierpaolo-fiore: true
+- id: doi:10.1038/s41598-024-72649-9
+  title: Consensus of algorithms for lesion segmentation in brain MRI studies of multiple
+    sclerosis
+  authors:
+  - Alessandro Pasquale De Rosa
+  - Marco Benedetto
+  - Stefano Tagliaferri
+  - Francesco Bardozzo
+  - "Alessandro D\u2019Ambrosio"
+  - Alvino Bisecco
+  - Antonio Gallo
+  - Mario Cirillo
+  - Roberto Tagliaferri
+  - Fabrizio Esposito
+  publisher: Scientific Reports
+  date: '2024-09-12'
+  link: https://doi.org/hbphfm
+  orcid: 0000-0003-0199-6623
+  francesco-bardozzo: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/rtsi61910.2024.10761642
+  title: Label-Free Nervous System Single Cell Classification Using Pretrained VGG
+    and ResNet Networks
+  authors:
+  - Pierpaolo Fiore
+  - Francesco Bardozzo
+  - Roberto Tagliaferri
+  publisher: 2024 IEEE 8th Forum on Research and Technologies for Society and Industry
+    Innovation (RTSI)
+  date: '2024-09-18'
+  link: https://doi.org/hbphfn
+  orcid: 0000-0003-0199-6623
+  francesco-bardozzo: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: handle:11386/4890766
+  title: Pipeline for RNA-seq data analysis on organoids derived from celiac patients
+  authors: []
+  publisher: ''
+  date: '2024-12-17'
+  link: https://www.iris.unisa.it/handle/11386/4890766
+  orcid: 0000-0003-0199-6623
+  francesco-bardozzo: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1117/12.2674881
+  title: Deep learning assisted Fourier ptychography for cells and tissue analysis
+  authors:
+  - Vittorio Bianco
+  - Marika Valentino
+  - "Jarom\xEDr Behal"
+  - Daniele Pirone
+  - Francesco Bardozzo
+  - Pasquale Memmolo
+  - Lisa Miccio
+  - Roberto Tagliaferri
+  - Pietro Ferraro
+  publisher: Optical Methods for Inspection, Characterization, and Imaging of Biomaterials
+    VI
+  date: '2023-08-11'
+  link: https://doi.org/hbphfp
+  orcid: 0000-0003-0199-6623
+  francesco-bardozzo: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.compstruc.2023.107157
+  title: Neural networks for fatigue crack propagation predictions in real-time under
+    uncertainty
+  authors:
+  - V. Giannella
+  - F. Bardozzo
+  - A. Postiglione
+  - R. Tagliaferri
+  - R. Sepe
+  - E. Armentani
+  publisher: Computers &amp; Structures
+  date: '2023-11-01'
+  link: https://doi.org/hbphfq
+  orcid: 0000-0003-0199-6623
+  francesco-bardozzo: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/IJCNN55064.2022.9892345
+  title: 'Cross X-AI: Explainable Semantic Segmentation of Laparoscopic Images in
+    Relation to Depth Estimation'
+  authors:
+  - Francesco Bardozzo
+  - Mattia Delli Priscoli
+  - Toby Collins
+  - Antonello Forgione
+  - Alexandre Hostettler
+  - Roberto Tagliaferri
+  publisher: 2022 International Joint Conference on Neural Networks (IJCNN)
+  date: '2022-07-18'
+  link: https://doi.org/hbphfr
+  orcid: 0000-0003-0199-6623
+  francesco-bardozzo: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: handle:11386/4807772
+  title: Real-time FPM reconstruction and misalignment correction by numerical Multi-Look
+    and GAN
+  authors: []
+  publisher: ''
+  date: '2022-11-11'
+  link: https://www.iris.unisa.it/handle/11386/4807772
+  orcid: 0000-0003-0199-6623
+  francesco-bardozzo: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-031-20837-9_19
+  title: "Soft Brain Ageing Indicators Based on\_Light-Weight LeNet-Like Neural Networks\
+    \ and\_Localized 2D Brain Age Biomarkers"
+  authors:
+  - Francesco Bardozzo
+  - Mattia Delli Priscoli
+  - Andrea Gerardo Russo
+  - Davide Crescenzi
+  - Ugo Di Benedetto
+  - Fabrizio Esposito
+  - Roberto Tagliaferri
+  publisher: Lecture Notes in Computer Science
+  date: '2022-01-01'
+  link: https://doi.org/hbphfs
+  orcid: 0000-0003-0199-6623
+  francesco-bardozzo: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.media.2022.102380
+  title: 'StaSiS-Net: A stacked and siamese disparity estimation network for depth
+    reconstruction in modern 3D laparoscopy'
+  authors:
+  - Francesco Bardozzo
+  - Toby Collins
+  - Antonello Forgione
+  - Alexandre Hostettler
+  - Roberto Tagliaferri
+  publisher: Medical Image Analysis
+  date: '2022-04-01'
+  link: https://doi.org/hbphft
+  orcid: 0000-0003-0199-6623
+  francesco-bardozzo: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: handle:11386/4812200
+  title: "We can make it better \u2013 improving the performances of AI-based predictors\
+    \ of protein structures"
+  authors: []
+  publisher: ''
+  date: '2022-12-23'
+  link: https://www.iris.unisa.it/handle/11386/4812200
+  orcid: 0000-0003-0199-6623
+  francesco-bardozzo: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/EMBC46164.2021.9630502
+  title: Blind microscopy image denoising with a deep residual and multiscale encoder/decoder
+    network
+  authors:
+  - Fabio Hernan Gil Zuluaga
+  - Francesco Bardozzo
+  - Jorge Ivan Rios Patino
+  - Roberto Tagliaferri
+  publisher: 2021 43rd Annual International Conference of the IEEE Engineering in
+    Medicine &amp; Biology Society (EMBC)
+  date: '2021-11-01'
+  link: https://doi.org/gt34q8
+  orcid: 0000-0003-0199-6623
+  francesco-bardozzo: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: handle:11386/4812114
+  title: Gated Local Adaptive Binarization using Supervised Learning
+  authors: []
+  publisher: ''
+  date: '2022-12-23'
+  link: https://www.iris.unisa.it/handle/11386/4812114
+  orcid: 0000-0003-0199-6623
+  francesco-bardozzo: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1364/DH.2021.DTh1D.3
+  title: Raw holograms based machine learning for cancer cells classification in microfluidics
+  authors:
+  - Mattia Delli Priscoli
+  - Pasquale Memmolo
+  - Gioele Ciaparrone
+  - Vittorio Bianco
+  - Francesco Merola
+  - Lisa Miccio
+  - Francesco Bardozzo
+  - Daniele Pirone
+  - Martina Mugnano
+  - Flora Cimmino
+  - Mario Capasso
+  - Achile Iolascon
+  - Pietro Ferraro
+  - Roberto Tagliaferri
+  publisher: OSA Imaging and Applied Optics Congress 2021 (3D, COSI, DH, ISA, pcAOP)
+  date: '2021-01-01'
+  link: https://doi.org/hbphfv
+  orcid: 0000-0003-0199-6623
+  francesco-bardozzo: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ijcnn48605.2020.9206854
+  title: A comparative analysis of multi-backbone Mask R-CNN for surgical tools detection
+  authors:
+  - Gioele Ciaparrone
+  - Francesco Bardozzo
+  - Mattia Delli Priscoli
+  - Juanita Londono Kallewaard
+  - Maycol Ruiz Zuluaga
+  - Roberto Tagliaferri
+  publisher: 2020 International Joint Conference on Neural Networks (IJCNN)
+  date: '2020-07-01'
+  link: https://doi.org/hbphdg
+  orcid: 0000-0003-0199-6623
+  francesco-bardozzo: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s00500-025-10983-4
+  title: 'Exploring the efficiency of GPT models in automating trial balance mapping:
+    applications and insights'
+  authors:
+  - Matteo Carollo
+  - Lucia Lauri
+  - Francesco Bardozzo
+  - Emanuela Mattia Cafaro
+  - "Raffaele D\u2019Alessio"
+  - Roberto Tagliaferri
+  publisher: Soft Computing
+  date: '2026-01-21'
+  link: https://doi.org/hbphfw
+  orcid: 0009-0007-6391-7851
+  matteo-carollo: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/RTSI61910.2024.10761642
+  title: Label-Free Nervous System Single Cell Classification Using Pretrained VGG
+    and ResNet Networks
+  authors:
+  - Pierpaolo Fiore
+  - Francesco Bardozzo
+  - Roberto Tagliaferri
+  publisher: 2024 IEEE 8th Forum on Research and Technologies for Society and Industry
+    Innovation (RTSI)
+  date: '2024-09-18'
+  link: https://doi.org/hbphfn
+  orcid: 0000-0002-7543-2073
+  pierpaolo-fiore: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.ecoinf.2022.101875
+  title: A novel beach litter analysis system based on UAV images and Convolutional
+    Neural Networks
+  authors:
+  - Vincenzo M. Scarrica
+  - Pietro P.C. Aucelli
+  - Cosimo Cagnazzo
+  - Angelo Casolaro
+  - Pierpaolo Fiore
+  - Marco La Salandra
+  - Angela Rizzo
+  - Giovanni Scardino
+  - Giovanni Scicchitano
+  - Antonino Staiano
+  publisher: Ecological Informatics
+  date: '2022-12-01'
+  link: https://doi.org/gv8q85
+  orcid: 0000-0002-7543-2073
+  pierpaolo-fiore: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.48550/ARXIV.2304.13538
+  title: 'ElegansNet: a brief scientific report and initial experiments'
+  authors:
+  - Francesco Bardozzo
+  - Andrea Terlizzi
+  - "Pietro Li\xF2"
+  - Roberto Tagliaferri
+  publisher: arXiv
+  date: '2023-01-01'
+  link: https://doi.org/hbphfx
+  orcid: 0000-0002-4963-8596
+  andrea-terlizzi: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: 10.1039/D3LC00385J
+  title: Label-free cell classification in holographic flow cytometry through an unbiased
+    learning strategy
+  authors:
+  - Gioele Ciaparrone
+  - Daniele Pirone
+  - Pierpaolo Fiore
+  - Lu Xin
+  - Wen Xiao
+  - Xiaoping Li
+  - Francesco Bardozzo
+  - Vittorio Bianco
+  - Lisa Miccio
+  - Feng Pan
+  - Pasquale Memmolo
+  - Roberto Tagliaferri
+  - Pietro Ferraro
+  publisher: Lab on a Chip
+  date: '2024-01-01'
+  link: https://doi.org/g2p2r3
   plugin: sources.py
   file: sources.yaml
-  image: images/Fig_Delas_CTDB.png
-- id: doi:10.1016/j.celrep.2019.03.080
-  title: lncRNA Spehd Regulates Hematopoietic Stem and Progenitor Cells and Is Required
-    for Multilineage Differentiation
-  authors:
-  - "M. Joaquina Del\xE1s"
-  - Benjamin T. Jackson
-  - Tatjana Kovacevic
-  - Silvia Vangelisti
-  - Ester Munera Maravilla
-  - Sophia A. Wild
-  - Eva Maria Stork
-  - Nicolas Erard
-  - Simon R.V. Knott
-  - Gregory J. Hannon
-  publisher: Cell Reports
-  date: '2019-04-01'
-  link: https://doi.org/gfzjh5
-  orcid: 0000-0001-9727-9068
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.7554/eLife.25607
-  title: lncRNA requirements for mouse acute myeloid leukemia and normal differentiation
-  authors:
-  - "M Joaquina Del\xE1s"
-  - Leah R Sabin
-  - Egor Dolzhenko
-  - Simon RV Knott
-  - Ester Munera Maravilla
-  - Benjamin T Jackson
-  - Sophia A Wild
-  - Tatjana Kovacevic
-  - Eva Maria Stork
-  - Meng Zhou
-  - Nicolas Erard
-  - Emily Lee
-  - David R Kelley
-  - Mareike Roth
-  - "Ine\u0302s AM Barbosa"
-  - Johannes Zuber
-  - John L Rinn
-  - Andrew D Smith
-  - Gregory J Hannon
-  publisher: eLife
-  date: '2017-09-06'
-  link: https://doi.org/gbzxk9
-  orcid: 0000-0001-9727-9068
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1098/rsob.170121
-  title: 'lncRNAs in development and disease: from functions to mechanisms'
-  authors:
-  - "M. Joaquina Del\xE1s"
-  - Gregory J. Hannon
-  publisher: Open Biology
-  date: '2017-07-01'
-  link: https://doi.org/gj4gf8
-  orcid: 0000-0001-9727-9068
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1073/pnas.1516718112
-  title: "Genome and transcriptome of the regeneration-competent flatworm,\n     \
-    \       <i>Macrostomum lignano</i>"
-  authors:
-  - Kaja Wasik
-  - James Gurtowski
-  - Xin Zhou
-  - Olivia Mendivil Ramos
-  - "M. Joaquina Del\xE1s"
-  - Giorgia Battistoni
-  - Osama El Demerdash
-  - Ilaria Falciatori
-  - Dita B. Vizoso
-  - Andrew D. Smith
-  - Peter Ladurner
-  - "Lukas Sch\xE4rer"
-  - W. Richard McCombie
-  - Gregory J. Hannon
-  - Michael Schatz
-  publisher: Proceedings of the National Academy of Sciences
-  date: '2015-09-21'
-  link: https://doi.org/f7vsx6
-  orcid: 0000-0001-9727-9068
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1016/j.molcel.2013.02.010
-  title: 'Dogma Derailed: The Many Influences of RNA on the Genome'
-  authors:
-  - "Leah\_R. Sabin"
-  - "M.\_Joaquina Del\xE1s"
-  - "Gregory\_J. Hannon"
-  publisher: Molecular Cell
-  date: '2013-03-01'
-  link: https://doi.org/f4r3hm
-  orcid: 0000-0001-9727-9068
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1016/j.nbt.2009.09.005
-  title: Yeast cultures with UCP1 uncoupling activity as a heating device
-  authors:
-  - "Joaquina Del\xE1s"
-  - Meritxell Notari
-  - "Jaume For\xE9s"
-  - "Joaqu\xEDn Pechuan"
-  - Manuel Porcar
-  - Emilio Navarro
-  - Arnau Montagud
-  - Minerva Baguena
-  - "Juli Peret\xF3"
-  - "Pedro Fern\xE1ndez de C\xF3rdoba"
-  - "M. Mar Gonz\xE1lez-Barroso"
-  - Eduardo Rial
-  - "Andr\xE9s Moya"
-  - "Javier Urchuegu\xEDa"
-  publisher: New Biotechnology
-  date: '2009-12-01'
-  link: https://doi.org/c63znr
-  orcid: 0000-0001-9727-9068
-  plugin: orcid.py
-  file: orcid.yaml

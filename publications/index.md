@@ -7,23 +7,21 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-book" %}Publications
 
-You can find a selection and all our publications below. We are big fans of pre-prints, as they accelerate science and make it more accessible, and that is why you might find some of them twice.
+You can find a selection and all our publications below.
 
 {% include section.html %}
 
 ## Highlighted
 
-{% include citation.html lookup="Predictable Engineering of Signal-Dependent Cis-Regulatory Elements" style="rich" %}
+{% include citation.html lookup="Advancing label-free cell classification with connectome-inspired explainable models and a novel LIVECell-CLS dataset" style="rich" %}
 
-{% include citation.html lookup="The cis-regulatory logic integrating spatial and temporal patterning in the vertebrate neural tube" style="rich" %}
+{% include citation.html lookup="Elegans-AI: How the connectome of a living organism could model artificial neural networks" style="rich" %}
 
-{% include citation.html lookup="Developmental cell fate choice in neural tube progenitors employs two distinct cis-regulatory strategies" style="rich" %}
+{% include citation.html lookup="Label-free cells classification in holographic flow cytometry through unbiased learning strategy" style="rich" %}
 
-{% include citation.html lookup="Dynamic Landscape Analysis of Cell Fate Decisions: Predictive Models of Neural Development From Single-Cell Data" style="rich" %}
+{% include citation.html lookup="Artificial Intelligence for Label-free cells classification in holographic microscopy" style="rich" %}
 
-{% include citation.html lookup="Sox2 levels regulate the chromatin occupancy of WNT mediators in epiblast progenitors responsible for vertebrate body formation" style="rich" %}
-
-{% include citation.html lookup="Repressive interactions in gene regulatory networks: When you have no other choice" style="rich" %}
+{% include citation.html lookup="Enhanced tissue slide imaging in the complex domain via cross-explainable GAN for Fourier ptychographic microscopy" style="rich" %}
 
 {% include section.html %}
 

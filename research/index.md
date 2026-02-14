@@ -55,14 +55,4 @@ We use a variety of novel genomics and computational methods, developing new app
 
 {% include section.html %}
 
-## Resources
 
-{% include list.html component="card" data="projects" filters="group: featured" style="small" %}
-
-{% include section.html %}
-
-<!---
-## More
-
-{% include list.html component="card" data="projects" filters="group: " style="small" %}
--->

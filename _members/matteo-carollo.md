@@ -1,7 +1,7 @@
 ---
 name: Matteo Carollo
 image: images/matteo-carollo.png
-role: phd
+role: postdoc
 aliases:
   - M. Carollo
 links:
@@ -22,4 +22,4 @@ links:
 - PhD Student in Artificial Intelligence for Time Series and Audio Analysis
 
 ### Short Bio
-Matteo Carollo is a PhD student at the University of Salerno and a member of the NeuRoNeLab research group since 2022, specializing in deep-learning methods for time series and audio analysis and advanced feature-extraction techniques for deep learning.
+Matteo Carollo is a postdoctoral researcher at the University of Salerno and a member of the Neurone Lab research group since 2022, specializing in deep-learning methods for time-series audio analysis and advanced feature-extraction techniques for deep learning.

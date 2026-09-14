@@ -1,7 +1,7 @@
 ---
 name: Pierpaolo Fiore
 image: images/pierpaolo-fiore.png
-role: phd
+role: postdoc
 aliases:
   - P. Fiore
 links:
@@ -23,4 +23,4 @@ links:
 - PhD Student in Artificial Intelligence for Microscopy
 
 ### Short Bio
-Pierpaolo Fiore is a PhD student at the University of Salerno and a member of the NeuroneLab research group from 2022. His research focuses on applying artificial intelligence and deep-learning methods to biomedical imaging, with a particular emphasis on label-free cell classification in holographic microscopy and flow cytometry.
+Pierpaolo Fiore is a posdoctoral researcher at the University of Salerno and a member of the NeuroneLab research group from 2022. His research focuses on applying artificial intelligence and deep-learning methods to biomedical imaging, with a particular emphasis on label-free cell classification in holographic microscopy and flow cytometry.

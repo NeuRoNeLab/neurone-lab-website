@@ -18,6 +18,29 @@
   file: orcid.yaml
   francesco-bardozzo: true
   matteo-carollo: true
+- id: doi:10.1093/bioadv/vbag185
+  title: A latent factor framework to organize regulatory and metabolic programs inferred
+    from scRNA-seq
+  authors:
+  - Chiara Napoli
+  - Francesco Bardozzo
+  - Suraj Verma
+  - Le Minh Thao Doan
+  - Pierpaolo Fiore
+  - Carmen Faggiano
+  - Claudio Angione
+  - Annalisa Occhipinti
+  - Roberto Tagliaferri
+  publisher: Bioinformatics Advances
+  date: '2026-01-01'
+  link: https://doi.org/hcjh5b
+  orcid: 0000-0002-7543-2073
+  roberto-tagliaferri: true
+  plugin: orcid.py
+  file: orcid.yaml
+  francesco-bardozzo: true
+  chiara-napoli: true
+  pierpaolo-fiore: true
 - id: doi:10.1016/j.compbiomed.2025.110274
   title: Advancing label-free cell classification with connectome-inspired explainable
     models and a novel LIVECell-CLS dataset
@@ -622,8 +645,9 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1093/bioinformatics/btx313
-  title: "<i>E</i>\n          \_2\n          \_<i>FM</i>: an encrypted and compressed\
-    \ full-text index for collections of genomic sequences"
+  title: "<i>E</i>\n                    \_2\n          \_\n                    <i>FM</i>\n\
+    \                    : an encrypted and compressed full-text index for collections\
+    \ of genomic sequences"
   authors:
   - Ferdinando Montecuollo
   - Giovannni Schmid
@@ -2588,6 +2612,24 @@
   roberto-tagliaferri: true
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1007/s00500-025-10983-4
+  title: 'Exploring the efficiency of GPT models in automating trial balance mapping:
+    applications and insights'
+  authors:
+  - Matteo Carollo
+  - Lucia Lauri
+  - Francesco Bardozzo
+  - Emanuela Mattia Cafaro
+  - "Raffaele D\u2019Alessio"
+  - Roberto Tagliaferri
+  publisher: Soft Computing
+  date: '2026-01-21'
+  link: https://doi.org/hbphfw
+  orcid: 0009-0007-6391-7851
+  francesco-bardozzo: true
+  plugin: orcid.py
+  file: orcid.yaml
+  matteo-carollo: true
 - id: doi:10.1007/978-3-031-89704-7_9
   title: "FP-Elegans M1: Feature Pyramid Reservoir Connectome Transformers and\_Multi-backbone\
     \ Feature Extractors for\_MEDMNIST2D-V2"
@@ -2603,6 +2645,22 @@
   francesco-bardozzo: true
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1109/ijcnn64981.2025.11228553
+  title: 'RSDiX: Lightweight and Data-Efficient VLMs for Remote Sensing through Self-Distillation'
+  authors:
+  - Andrea Terlizzi
+  - Angelo Nazzaro
+  - Lorenzo Bernardi
+  - Francesco Bardozzo
+  - Roberto Tagliaferri
+  publisher: 2025 International Joint Conference on Neural Networks (IJCNN)
+  date: '2025-06-30'
+  link: https://doi.org/hcjh5c
+  orcid: 0000-0002-4963-8596
+  francesco-bardozzo: true
+  plugin: orcid.py
+  file: orcid.yaml
+  andrea-terlizzi: true
 - id: doi:10.1117/12.3065442
   title: Real-time complex amplitude retrieval in Fourier ptychographic microscopy
     using dual-channel input GAN
@@ -2669,6 +2727,17 @@
   plugin: orcid.py
   file: orcid.yaml
   pierpaolo-fiore: true
+- id: handle:11386/4943975
+  title: Unsupervised deep learning encoders/decoders for laparoscopic 3D depth estimation
+    and surface reconstruction
+  authors: []
+  publisher: ''
+  date: '2026-05-16'
+  link: https://www.iris.unisa.it/handle/11386/4943975
+  orcid: 0000-0003-0199-6623
+  francesco-bardozzo: true
+  plugin: orcid.py
+  file: orcid.yaml
 - id: handle:11386/4890772
   title: An automated pipeline integrating AlphaFold 2 and MODELLER for protein structure
     prediction
@@ -2925,23 +2994,6 @@
   link: https://doi.org/hbphdg
   orcid: 0000-0003-0199-6623
   francesco-bardozzo: true
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1007/s00500-025-10983-4
-  title: 'Exploring the efficiency of GPT models in automating trial balance mapping:
-    applications and insights'
-  authors:
-  - Matteo Carollo
-  - Lucia Lauri
-  - Francesco Bardozzo
-  - Emanuela Mattia Cafaro
-  - "Raffaele D\u2019Alessio"
-  - Roberto Tagliaferri
-  publisher: Soft Computing
-  date: '2026-01-21'
-  link: https://doi.org/hbphfw
-  orcid: 0009-0007-6391-7851
-  matteo-carollo: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/RTSI61910.2024.10761642

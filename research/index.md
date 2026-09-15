@@ -5,54 +5,67 @@ nav:
   tooltip: Learn about our research
 ---
 
-# {% include icon.html icon="fa-solid fa-flask-vial" %}Research
+# {% include icon.html icon="fa-solid fa-flask-vial" %}Our research
 
-At Neurone Lab we study computation across biological and artificial systems, aiming to understand how structure, dynamics, and information flow give rise to intelligent behaviour. We also use computational and data-driven methods to analyse biological processes and images, helping biologists interpret complex data and uncover mechanistic insights that are difficult to access through experimental techniques alone. Our work brings together machine learning, computational biology, advanced microscopy, and neuroscience to explore shared principles of learning and representation. 
+Neurone Lab investigates intelligence as a problem of **structure, dynamics, and information flow**. We move in both directions between biology and computation: biological organization inspires new learning architectures, while machine learning helps us interpret cells, tissues, brains, and complex signals. This common perspective connects our four main research themes.
 
-Our research spans integrating ideas from natural systems into artificial intelligence systems and the analysis of complex biological datasets. We work with multi-scale data, including single-cell omics from cancer studies, large collections of label-free cellular images, and high-resolution microscopy modalities such as ptychography. This integrated perspective allows us to link structure, function, and computation while developing algorithms, analysis pipelines, and benchmarks that support both biological discovery and technological innovation. Our interdisciplinary approach connects fundamental research with real-world applications across biology and medicine.
+{% include section.html %}
 
+## NeuroAI and efficient recurrent learning
 
-{% capture text %}
+We ask which principles of nervous systems can make artificial networks more efficient, adaptive, and interpretable. Our work includes architectures constrained by the _Caenorhabditis elegans_ connectome, biologically motivated sparsity, conditional computation, and reservoir computing. Rather than treating network connectivity as an arbitrary implementation detail, we study how topology and temporal dynamics shape memory, representation, and learning.
 
-In our NeuroAI research efforts, we develop models, analytical tools, and deep learning methods inspired by biological organization and dynamics, seeking connections between the way nervous systems process information and how artificial systems can learn more efficiently and effectively. 
-
-{% endcapture %}
+Reservoir computing is especially useful in this setting: a recurrent dynamical system transforms an input history into a rich state while only a lightweight readout needs to be trained. We investigate how known dynamics can inform the reservoir, how self-supervised objectives can improve its representations, and how selective state updates can reduce computation without discarding informative events.
 
 {%
-  include feature.html
+  include figure.html
   image="images/Research_all-02.png"
-  text=text
+  caption="From biological connectivity and dynamics to efficient artificial learning systems."
+  width="75%"
 %}
 
-{% capture text %}
+## Single-cell and systems biology
 
-We use a variety of novel genomics and computational methods, developing new approaches when needed to answer the questions. Our current projects include state-of-the art proteomics and microscopy approaches to address the mechanistic principles of how cis-regulatory elements control cell fate choice between neural progenitors.
+Single-cell RNA sequencing reveals cellular heterogeneity, but its thousands of correlated measurements do not directly explain the programs that govern a cell. We develop latent-variable and integrative methods that organize gene regulation, pathways, and metabolism into interpretable factors. These methods can connect cell states to coordinated biological programs, compare those programs across populations, and generate hypotheses for experimental validation.
+
+This work builds on the lab's broader experience in gene-expression analysis, multi-omic integration, pathway inference, consensus clustering, and metabolic networks. Our aim is not only to predict a label, but to expose the molecular organization behind it.
+
+## AI for biomedical imaging
+
+We develop learning methods for images in which reliable annotations are scarce and the acquisition process matters. Applications include label-free classification of cells from digital holograms, holographic flow cytometry, Fourier ptychographic microscopy, microscopy denoising, and clinical neuroimaging. By combining acquisition-aware models, robust evaluation, and explainable architectures, we seek systems that are useful to both computational researchers and domain experts.
+
+Our recent work joins this theme to NeuroAI through connectome-inspired models for label-free cell classification, testing whether constrained biological topology can provide competitive predictions together with more transparent internal structure.
+
+{%
+  include figure.html
+  image="images/Research_all-01.png"
+  caption="Computational methods reveal patterns in single cells, molecular programs, and biomedical images."
+  width="75%"
+%}
+
+## Time series, audio, and representation learning
+
+Sequential data provide a natural testbed for models of memory and efficient computation. We study representation learning and feature extraction for time series, environmental soundscapes, real-world audio, source separation, and speech enhancement. These applications also let us test general ideas—such as compression, selective updates, and self-supervision—under noise and changing temporal context.
+
+{% include section.html %}
+
+## One lab, shared questions
+
+Across these areas, we repeatedly ask: **what should a model remember, which structure should it preserve, and how can its representation remain scientifically meaningful?** We approach those questions through new architectures, curated datasets, reproducible analysis pipelines, and collaboration with biological and clinical researchers.
 
 {%
   include button.html
-  link="publications"
-  text="Read more"
+  link="projects"
+  text="Explore our current projects"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
 %}
 
-{% endcapture %}
-
 {%
-  include feature.html
-  image="images/Research_all-01.png"
+  include button.html
   link="publications"
-  flip=true
+  text="Browse our publications"
+  icon="fa-solid fa-book"
   style="bare"
-  text=text
 %}
-
-
-
-{% include tags.html tags="publication, resource, website" %}
-
-
-{% include section.html %}
-
-

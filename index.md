@@ -3,7 +3,7 @@
 
 # Intelligence in biological and artificial systems
 
-At Neurone Lab, we study computation across natural and artificial systems. Our work lies at the intersection of artificial intelligence, bioinformatics, bioimaging, and computational neuroscience (NeuroAI). We are interested in how principles from biology can inform machine learning, and how computational methods can help us understand biological data.
+Neurone Lab studies how information is represented, transformed, and learned in biological and artificial systems. We bring together artificial intelligence, bioinformatics, bioimaging, and computational neuroscience to build better learning systems and make complex biological data easier to understand.
 
 {%
   include figure.html
@@ -11,11 +11,7 @@ At Neurone Lab, we study computation across natural and artificial systems. Our 
   width="75%"
 %}
 
-Our research spans several areas.
-In NeuroAI, we explore how neural connectivity and structure can inspire new machine learning architectures, for example by using the _Caenorhabditis elegans_ connectome or biologically motivated sparsity mechanisms in artificial networks. 
-In bioinformatics, we work on computational analysis of single-cell omics data, focusing on pathway inference and gene-level regulatory patterns.
-In bioimaging, we develop and apply deep learning approaches for microscopy and medical imaging, including super-resolution of tissue data, label-free cell classification, and brain lesion segmentation.
-We also have projects in audio signal processing, studying soundscapes and speech enhancement with deep learning models.
+From connectome-inspired neural networks and reservoir computing to single-cell analysis, microscopy, and audio, our projects share one goal: turning structure and dynamics into useful computational principles.
 
 We are located at the [DISA-MIS, University of Salerno](https://www.disa.unisa.it/en/department/structures?id=331). If you are interested in collaborating, doing an intern period, or joining the lab, please [get in touch](/contact).
 
@@ -24,7 +20,7 @@ We are located at the [DISA-MIS, University of Salerno](https://www.disa.unisa.i
 
 {% capture text %}
 
-Our work combines methods from machine learning, computational biology, and neuroscience. We use data from cells, tissues, neurons, and connectomes to study how structure and computation interact across different systems.
+Discover the questions that connect our work in NeuroAI, computational biology, biomedical imaging, and signal processing.
 
 <!---
 [Learn more about our research &nbsp;→](research)
@@ -53,9 +49,7 @@ Our work combines methods from machine learning, computational biology, and neur
 
 {% capture text %}
 
-Our lab runs a variety of research projects, forming the basis of our publications, student projects, and theses.
-These range from work in NeuroAI to more applied projects in single-cell analysis, biological imaging, and audio processing.
-We welcome new ideas and collaborations, and are open to project proposals from students and external researchers.
+Explore the focused ideas currently driving our publications, collaborations, student projects, and theses.
 
 {%
   include button.html
@@ -81,7 +75,7 @@ We welcome new ideas and collaborations, and are open to project proposals from 
 
 {% capture text %}
 
-We are a small interdisciplinary team and are currently expanding our international presence and collaborations. We welcome collaboration withs people from a wide range of backgrounds in mathematics, computation, and biological sciences.
+Meet our interdisciplinary group of researchers and students working across computer science, mathematics, biology, and medicine.
 
 {%
   include button.html
@@ -103,4 +97,3 @@ We are a small interdisciplinary team and are currently expanding our internatio
   style="bare"
   text=text
 %}
-

@@ -1,7 +1,7 @@
 ---
 title: Join us!
 nav:
-  order: 4
+  order: 5
   tooltip: Join our team
 ---
 

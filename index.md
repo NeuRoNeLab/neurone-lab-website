@@ -12,7 +12,7 @@ At Neurone Lab, we study computation across natural and artificial systems. Our 
 %}
 
 Our research spans several areas.
-In NeuroAI, we explore how neural connectivity and structure can inspire new machine learning architectures, for example by using the _Caenorhabditis elegans_ connectome or biologically motivated sparsity mechanisms in artificial networks. 
+In NeuroAI, we explore how neural connectivity and structure can inspire new machine learning architectures, for example by using the _Caenorhabditis elegans_ connectome or  sparsity mechanisms in artificial networks inspired by the brain. 
 In bioinformatics, we work on computational analysis of single-cell omics data, focusing on pathway inference and gene-level regulatory patterns.
 In bioimaging, we develop and apply deep learning approaches for microscopy and medical imaging, including super-resolution of tissue data, label-free cell classification, and brain lesion segmentation.
 We also have projects in audio signal processing, studying soundscapes and speech enhancement with deep learning models.
@@ -54,7 +54,7 @@ Our work combines methods from machine learning, computational biology, and neur
 {% capture text %}
 
 Our lab runs a variety of research projects, forming the basis of our publications, student projects, and theses.
-These range from work in NeuroAI to more applied projects in single-cell analysis, biological imaging, and audio processing.
+These range from work in NeuroAI & reservoir computing to more applied projects in single-cell analysis, biological imaging, and audio processing.
 We welcome new ideas and collaborations, and are open to project proposals from students and external researchers.
 
 {%

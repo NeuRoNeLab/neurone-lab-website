@@ -1,6 +1,6 @@
 ---
 name: Francesco Maria Rastelli
-image: images/fallback.svg
+image: images/francesco-maria-rastelli.jpg
 role: undergrad
 description: MSc Student
 aliases:

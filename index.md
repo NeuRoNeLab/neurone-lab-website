@@ -11,7 +11,7 @@ Neurone Lab studies how information is represented, transformed, and learned in 
   width="75%"
 %}
 
-From connectome-inspired neural networks and reservoir computing to single-cell analysis, microscopy, and audio, our projects share one goal: turning structure and dynamics into useful computational principles.
+From connectome-constrained neural networks and reservoir computing to single-cell analysis, microscopy, and audio, our projects share one goal: turning structure and dynamics into useful computational principles.
 
 We are located at the [DISA-MIS, University of Salerno](https://www.disa.unisa.it/en/department/structures?id=331). If you are interested in collaborating, doing an intern period, or joining the lab, please [get in touch](/contact).
 
@@ -75,7 +75,7 @@ Explore the focused ideas currently driving our publications, collaborations, st
 
 {% capture text %}
 
-Meet our interdisciplinary group of researchers and students working across computer science, mathematics, biology, and medicine.
+Meet our interdisciplinary group of researchers and students working across computer science, deep learning, biology, and medicine.
 
 {%
   include button.html

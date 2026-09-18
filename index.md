@@ -20,7 +20,7 @@ We are located at the [DISA-MIS, University of Salerno](https://www.disa.unisa.i
 
 {% capture text %}
 
-Discover the questions that connect our work in NeuroAI, reservoir computing computational biology, and biomedical imaging.
+Discover the questions that connect our work in NeuroAI, reservoir computing, computational biology, and biomedical imaging.
 
 <!---
 [Learn more about our research &nbsp;→](research)

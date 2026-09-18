@@ -19,7 +19,7 @@ links:
 ### Background
 - BSc in Computer Engineering
 - MSc in Data Science
-- PhD Student in Artificial Intelligence for Time Series and Audio Analysis
+- PhD in Artificial Intelligence for Time Series and Audio Analysis
 
 ### Short Bio
 Matteo Carollo is a postdoctoral researcher at the University of Salerno and a member of the Neurone Lab research group since 2022, specializing in deep-learning methods for time-series audio analysis and advanced feature-extraction techniques for deep learning.

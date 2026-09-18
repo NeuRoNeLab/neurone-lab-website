@@ -1,8 +1,8 @@
 ---
 name: Angelo Nazzaro
 image: images/angelo-nazzaro.jpg
-role: undergrad
-description: MSc Student
+role: ra
+description: Research Assistant
 aliases:
   - Angelo Nazzaro
 links:

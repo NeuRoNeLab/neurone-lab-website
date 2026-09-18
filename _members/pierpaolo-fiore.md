@@ -20,7 +20,7 @@ links:
 ### Background
 - BSc in Computer Science
 - MSc in Machine Learning
-- PhD Student in Artificial Intelligence for Microscopy
+- PhD in Artificial Intelligence for Microscopy
 
 ### Short Bio
 Pierpaolo Fiore is a posdoctoral researcher at the University of Salerno and a member of the NeuroneLab research group from 2022. His research focuses on applying artificial intelligence and deep-learning methods to biomedical imaging, with a particular emphasis on label-free cell classification in holographic microscopy and flow cytometry.

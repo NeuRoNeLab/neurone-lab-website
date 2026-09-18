@@ -14,7 +14,9 @@ Meet our team:
 
 {% include list.html data="members" component="portrait" filters="role: prof" %}
 {% include list.html data="members" component="portrait" filters="role: pi" %}
-{% include list.html data="members" component="portrait" filters="role: ^(?!prof$|pi$)" %}
+{% include list.html data="members" component="portrait" filters="role: postdoc" %}
+{% include list.html data="members" component="portrait" filters="role: phd" %}
+{% include list.html data="members" component="portrait" filters="role: ^(?!prof$|pi|postdoc|phd$)" %}
 
 {% include section.html background="images/unisa.jpg" dark=true %}
 
